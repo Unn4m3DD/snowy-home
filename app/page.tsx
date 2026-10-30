@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   ArrowUpRight,
   ArrowLeft,
@@ -181,6 +181,7 @@ function PhotoView({ l, onOpen }: { l: Listing; onOpen: () => void }) {
   );
 }
 export default function Home() {
+  const galleryScrollRef = useRef<HTMLDivElement>(null);
   const [data, setData] = useState<Data | null>(null),
     [error, setError] = useState(false),
     [q, setQ] = useState(""),
@@ -605,7 +606,7 @@ export default function Home() {
               <DialogDescription className="sr-only">
                 Listing facts and photo evidence.
               </DialogDescription>
-              <div className="detail-layout">
+              <div className="detail-layout" ref={galleryScrollRef}>
                 <div className="detail-gallery">
                   {selected.photos.length ? (
                     <>
@@ -668,7 +669,10 @@ export default function Home() {
                           <button
                             key={i}
                             className={photo === i ? "selected" : ""}
-                            onClick={() => setPhoto(i)}
+                            onClick={() => {
+                              setPhoto(i);
+                              galleryScrollRef.current?.scrollTo({ top: 0 });
+                            }}
                             aria-label={`Photo ${i + 1}, ${p.room}, AC ${p.ac}`}
                           >
                             <img src={p.src} alt={p.room} />
