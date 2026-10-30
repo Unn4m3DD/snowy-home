@@ -15,6 +15,7 @@ import {
   ExternalLink,
   Info,
   Building2,
+  Link2,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -194,10 +195,25 @@ export default function Home() {
     [view, setView] = useState("matches"),
     [saved, setSaved] = useState<string[]>([]),
     [selected, setSelected] = useState<Listing | null>(null),
+    [missingListing, setMissingListing] = useState(false),
+    [copyStatus, setCopyStatus] = useState<"idle" | "copied" | "failed">(
+      "idle",
+    ),
     [photo, setPhoto] = useState(0),
     [showMethod, setShowMethod] = useState(false),
     [filters, setFilters] = useState(false);
   useEffect(() => {
+    const listState = window.history.state?.rentalListState;
+    if (listState) {
+      setQ(listState.q);
+      setBudget(listState.budget);
+      setMinBeds(listState.minBeds);
+      setTown(listState.town);
+      setAc(listState.ac);
+      setGarage(listState.garage);
+      setSort(listState.sort);
+      setView(listState.view);
+    }
     fetch("/data/listings.json")
       .then((r) => {
         if (!r.ok) throw Error();
@@ -209,6 +225,24 @@ export default function Home() {
       setSaved(JSON.parse(localStorage.getItem("covilha-saved") || "[]"));
     } catch {}
   }, []);
+  useEffect(() => {
+    if (!data) return;
+    function syncDetailsRoute() {
+      const match = window.location.pathname.match(/^\/listings\/([^/]+)\/?$/);
+      let id = "";
+      try {
+        id = match ? decodeURIComponent(match[1]) : "";
+      } catch {}
+      const listing = data!.listings.find((item) => item.id === id) ?? null;
+      setSelected(listing);
+      setMissingListing(!!match && !listing);
+      setCopyStatus("idle");
+      setPhoto(0);
+    }
+    syncDetailsRoute();
+    window.addEventListener("popstate", syncDetailsRoute);
+    return () => window.removeEventListener("popstate", syncDetailsRoute);
+  }, [data]);
   function toggleSave(id: string) {
     const next = saved.includes(id)
       ? saved.filter((x) => x !== id)
@@ -217,13 +251,54 @@ export default function Home() {
     localStorage.setItem("covilha-saved", JSON.stringify(next));
   }
   function open(l: Listing) {
-    setSelected(l);
-    setPhoto(
-      Math.max(
-        l.photos.findIndex((p) => p.ac === "yes"),
-        0,
-      ),
+    // Keep the mounted list and its filters while giving details a real URL.
+    window.history.replaceState(
+      {
+        ...window.history.state,
+        rentalListState: { q, budget, minBeds, town, ac, garage, sort, view },
+      },
+      "",
+      window.location.href,
     );
+    window.history.pushState(
+      { ...window.history.state, rentalDetailsEntry: true },
+      "",
+      `/listings/${encodeURIComponent(l.id)}`,
+    );
+    setSelected(l);
+    setMissingListing(false);
+    setCopyStatus("idle");
+    setPhoto(0);
+  }
+  function closeDetails() {
+    setSelected(null);
+    setMissingListing(false);
+    setCopyStatus("idle");
+    if (window.history.state?.rentalDetailsEntry) {
+      window.history.back();
+    } else {
+      // A directly opened shared link should close into the list, not another site.
+      window.history.replaceState(window.history.state, "", "/");
+    }
+  }
+  async function copyDetailsLink() {
+    if (!selected) return;
+    const url = new URL(
+      `/listings/${encodeURIComponent(selected.id)}`,
+      window.location.origin,
+    );
+    try {
+      await navigator.clipboard.writeText(url.href);
+      setCopyStatus("copied");
+    } catch {
+      setCopyStatus("failed");
+    }
+  }
+  function moveDetailPhoto(direction: -1 | 1) {
+    const count = selected?.photos.length ?? 0;
+    if (count < 2) return;
+    setPhoto((current) => (current + direction + count) % count);
+    galleryScrollRef.current?.scrollTo({ top: 0 });
   }
   const listings = data?.listings || [];
   const matches = listings.filter((l) => l.status === "match");
@@ -281,6 +356,12 @@ export default function Home() {
           </button>
         </div>
       </header>
+      {missingListing && (
+        <div className="route-error" role="status">
+          Listing not found in this search snapshot.
+          <button onClick={closeDetails}>Back to listings</button>
+        </div>
+      )}
       <section className="intro">
         <div>
           <div className="eyebrow">
@@ -596,15 +677,64 @@ export default function Home() {
           )}
         </main>
       </div>
-      <Dialog open={!!selected} onOpenChange={(o) => !o && setSelected(null)}>
-        <DialogContent className="listing-dialog" showCloseButton={true}>
+
+      <Dialog open={!!selected} onOpenChange={(o) => !o && closeDetails()}>
+        <DialogContent
+          className="listing-dialog"
+          showCloseButton={true}
+          onKeyDown={(event) => {
+            if (
+              event.defaultPrevented ||
+              event.altKey ||
+              event.ctrlKey ||
+              event.metaKey ||
+              event.shiftKey ||
+              (event.key !== "ArrowLeft" && event.key !== "ArrowRight")
+            )
+              return;
+            const target = event.target;
+            if (
+              target instanceof HTMLElement &&
+              (target.isContentEditable ||
+                target.closest(
+                  'input, textarea, select, [role="slider"], [role="combobox"]',
+                ))
+            )
+              return;
+            if (!selected || selected.photos.length < 2) return;
+            event.preventDefault();
+            moveDetailPhoto(event.key === "ArrowLeft" ? -1 : 1);
+          }}
+        >
           {selected && (
             <>
-              <DialogTitle className="dialog-title">
-                {selected.title}
-              </DialogTitle>
+              <div className="detail-heading">
+                <DialogTitle className="dialog-title">
+                  {selected.title}
+                </DialogTitle>
+                <Button
+                  variant="outline"
+                  className="copy-detail-link"
+                  onClick={copyDetailsLink}
+                >
+                  {copyStatus === "copied" ? (
+                    <Check size={14} />
+                  ) : (
+                    <Link2 size={14} />
+                  )}
+                  {copyStatus === "copied" ? "Copied" : "Copy link"}
+                </Button>
+              </div>
+              <span className="sr-only" role="status">
+                {copyStatus === "copied"
+                  ? "Details link copied."
+                  : copyStatus === "failed"
+                    ? "Could not copy. Copy the link from the address bar."
+                    : ""}
+              </span>
               <DialogDescription className="sr-only">
-                Listing facts and photo evidence.
+                Listing facts and photo evidence. Use the Left and Right arrow
+                keys to browse photos.
               </DialogDescription>
               <div className="detail-layout" ref={galleryScrollRef}>
                 <div className="detail-gallery">
@@ -616,21 +746,16 @@ export default function Home() {
                           alt={`${selected.photos[photo]?.room} photo ${photo + 1}`}
                         />
                         <button
+                          className="gallery-previous"
                           aria-label="Previous photo"
-                          onClick={() =>
-                            setPhoto(
-                              (photo + selected.photos.length - 1) %
-                                selected.photos.length,
-                            )
-                          }
+                          onClick={() => moveDetailPhoto(-1)}
                         >
                           <ArrowLeft />
                         </button>
                         <button
+                          className="gallery-next"
                           aria-label="Next photo"
-                          onClick={() =>
-                            setPhoto((photo + 1) % selected.photos.length)
-                          }
+                          onClick={() => moveDetailPhoto(1)}
                         >
                           <ArrowRight />
                         </button>

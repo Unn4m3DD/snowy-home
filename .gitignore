@@ -43,3 +43,6 @@ yarn-error.log*
 
 # OS metadata
 .DS_Store
+
+# Original photos are hosted on the GitHub images branch.
+/public/photos/
