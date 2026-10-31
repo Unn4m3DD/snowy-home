@@ -69,6 +69,8 @@ type Listing = {
   commuteNote: string;
   routeUrl: string;
   status: string;
+  requiresApproval?: boolean;
+  evidenceStatus?: string;
   updated: string;
   checked: string;
 };
@@ -343,8 +345,9 @@ export default function Home() {
     galleryScrollRef.current?.scrollTo({ top: 0 });
   }
   const listings = data?.listings || [];
+  const listingStatus = (l: Listing) => tracking[l.id]?.approved ? "match" : l.status;
   const activeListings = listings.filter(l => !tracking[l.id]?.removed);
-  const matches = activeListings.filter((l) => l.status === "match");
+  const matches = activeListings.filter((l) => listingStatus(l) === "match");
   const towns = Array.from(new Set(listings.map((l) => l.town))).sort();
   const filtered = listings
     .filter(
@@ -352,8 +355,8 @@ export default function Home() {
         (view === "removed" ? !!tracking[l.id]?.removed : !tracking[l.id]?.removed) &&
         (view === "all" || view === "removed" ||
           (view === "contacted" && tracking[l.id]?.contacted) ||
-          (view === "matches" && l.status === "match") ||
-          (view === "review" && l.status === "review")) &&
+          (view === "matches" && listingStatus(l) === "match") ||
+          (view === "review" && listingStatus(l) === "review")) &&
         l.price <= budget &&
         l.bedrooms >= minBeds &&
         (town === "all" || l.town === town) &&
@@ -542,7 +545,7 @@ export default function Home() {
                 [
                   "review",
                   "Needs review",
-                  activeListings.filter((l) => l.status === "review").length,
+                  activeListings.filter((l) => listingStatus(l) === "review").length,
                 ],
                 ["all", "All screened", activeListings.length],
                 ["contacted", "Contacted", activeListings.filter(l => tracking[l.id]?.contacted).length],
@@ -576,7 +579,7 @@ export default function Home() {
                 {" "}
                 ·{" "}
                 {view === "matches"
-                  ? "AC photo evidence or an explicit AC claim"
+                  ? "Approved apartments and AC evidence matches"
                   : "Check the evidence before shortlisting"}
               </span>
             </p>
@@ -677,11 +680,12 @@ export default function Home() {
                           ? "Different rooms seen in photos"
                           : "Separate bedroom needs verification"}
                       </div>
-                      {l.status !== "match" && (
+                      {listingStatus(l) !== "match" && (
                         <div className="status-note">
-                          {l.notes[0] || "Insufficient AC evidence"}
+                          {l.requiresApproval && !tracking[l.id]?.approved ? "Awaiting your approval" : l.notes[0] || "Insufficient AC evidence"}
                         </div>
                       )}
+                      {listingStatus(l) === "review" && <Button className="approve-apartment" variant="outline" disabled={!trackerReady || saving} onClick={() => void updateTracking(l.id, { approved: true })}>Approve apartment</Button>}
                       <div className="card-footer">
                         <span>
                           {l.source}
@@ -868,7 +872,7 @@ export default function Home() {
                     {selected.address}
                   </p>
                   <div className="tracker-sync" role="status">{trackerStatus}</div>
-                  <TrackingFields key={selected.id} value={tracking[selected.id] ?? emptyTracking} disabled={!trackerReady || saving} onChange={patch => updateTracking(selected.id, patch)} />
+                  <TrackingFields key={selected.id} needsReview={listingStatus(selected) === "review"} value={tracking[selected.id] ?? emptyTracking} disabled={!trackerReady || saving} onChange={patch => updateTracking(selected.id, patch)} />
                   <AC l={selected} />
                   <dl>
                     <div>

@@ -5,6 +5,8 @@
   "photoCount": 1819,
   "listings": [
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19328533",
       "title": "Apartamento T3 para alugar na Covilhã junto ao pérola doce",
       "price": 850.0,
@@ -123,6 +125,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19327966",
       "title": "T3 c/ Lug. Garagem - Urb. Rib. Flandres - Covilhã",
       "price": 750.0,
@@ -316,6 +320,8 @@
       "analysedPhotos": 15
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19306332",
       "title": "Arrenda-se T3 remodelado no centro da Covilhã - Travessa da Madalena",
       "price": 600.0,
@@ -491,6 +497,8 @@
       "analysedPhotos": 13
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19318463",
       "title": "Arrenda-se T1 Covilhã",
       "price": 550.0,
@@ -654,6 +662,8 @@
       "analysedPhotos": 12
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19314804",
       "title": "T1 NOVO - NO CENTRO DA COVILHÃ | CONDOMÍNIO FECHADO",
       "price": 650.0,
@@ -967,6 +977,8 @@
       "analysedPhotos": 27
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19313712",
       "title": "Apartamento bem situado!",
       "price": 600.0,
@@ -1091,6 +1103,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19311168",
       "title": "Apartamento T1 Covilhã centro",
       "price": 450.0,
@@ -1159,6 +1173,8 @@
       "analysedPhotos": 3
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-18542862",
       "title": "T3 duplex +1-Recuperado- cozinha equipada- aparcamento",
       "price": 750.0,
@@ -1336,6 +1352,8 @@
       "analysedPhotos": 13
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19307115",
       "title": "APARTAMENTO T4 PARA ARRENDAMENTO NA ZONA BAIXA DA COVILHÃ",
       "price": 850.0,
@@ -1859,6 +1877,8 @@
       "analysedPhotos": 48
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19273958",
       "title": "T1 Novo, a estrear para Arrendamento",
       "price": 650.0,
@@ -1986,6 +2006,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "review",
       "id": "imovirtual-19304215",
       "title": "T0 - Junto UBI - Polo das Engenharias",
       "price": 650.0,
@@ -2181,6 +2203,8 @@
       "analysedPhotos": 15
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19297384",
       "title": "T2 para Arrendamento — Covilhã | 600 €/mês",
       "price": 600.0,
@@ -2291,6 +2315,8 @@
       "analysedPhotos": 7
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19293919",
       "title": "T4 - Serra Shopping - Covilhã",
       "price": 1100.0,
@@ -2504,6 +2530,8 @@
       "analysedPhotos": 17
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19281360",
       "title": "Apartamento T3 / Covilhã, Covilhã",
       "price": 1000.0,
@@ -2747,6 +2775,8 @@
       "analysedPhotos": 20
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19274155",
       "title": "Apartamento T1 Duplex com lugar de garagem",
       "price": 575.0,
@@ -2893,6 +2923,8 @@
       "analysedPhotos": 10
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19267897",
       "title": "Apartamento com 2 quartos - localizado em Covilha",
       "price": 980.0,
@@ -3024,6 +3056,8 @@
       "analysedPhotos": 9
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19264510",
       "title": "T2 solarengo com terraço",
       "price": 650.0,
@@ -3078,6 +3112,8 @@
       "analysedPhotos": 1
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19262144",
       "title": "Apartamento T2 / Covilhã, Covilhã",
       "price": 790.0,
@@ -3321,6 +3357,8 @@
       "analysedPhotos": 20
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19220010",
       "title": "T1 Semi-Novo | Mobilado e Equipado | Zona Nova da Covilhã",
       "price": 800.0,
@@ -3454,6 +3492,8 @@
       "analysedPhotos": 9
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19199620",
       "title": "Magnífico Apartamento em Canhoso",
       "price": 750.0,
@@ -3602,6 +3642,8 @@
       "analysedPhotos": 11
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19113163",
       "title": "T4 na Covilha  para arrendar/ venda",
       "price": 1100.0,
@@ -3759,6 +3801,8 @@
       "analysedPhotos": 11
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-17300331",
       "title": "T1+2 - Zona Baixa da Covilhã - Refugio",
       "price": 700.0,
@@ -3953,6 +3997,8 @@
       "analysedPhotos": 15
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19011984",
       "title": "Arrenda-se T1 muito próximo do pólo principal da UBI e do pelourinho,",
       "price": 380.0,
@@ -3992,6 +4038,8 @@
       "analysedPhotos": 0
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-18997307",
       "title": "pequeno T1+1covilhã(água para 2+internet incluida).",
       "price": 450.0,
@@ -4082,159 +4130,8 @@
       "analysedPhotos": 5
     },
     {
-      "id": "imovirtual-18857623",
-      "title": "T1 totalmente mobilado e equipado junto ao Serra Shopping",
-      "price": 750.0,
-      "bedrooms": 1,
-      "typology": "T1",
-      "area": "75",
-      "address": "Rua do Urbanização da Quinta do Pinheiro, 23",
-      "town": "Covilhã",
-      "source": "Imovirtual",
-      "url": "https://www.imovirtual.com/pt/anuncio/t1-totalmente-mobilado-e-equipado-junto-ao-serra-shopping-ID1h7Jd",
-      "otherUrls": [
-        {
-          "source": "Idealista",
-          "url": "https://www.idealista.pt/imovel/34450076/"
-        }
-      ],
-      "agency": "OLX",
-      "garage": "Included",
-      "floor": "2º andar · lift",
-      "furnished": "Yes",
-      "available": "Advertised now; confirm Dec",
-      "conditions": [],
-      "notes": [
-        "Multiple ads use the same photos. All source links are retained; confirm they refer to the same available unit."
-      ],
-      "acTag": false,
-      "acText": false,
-      "acQuote": "",
-      "photoAc": "no",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 8: bedroom. Source photo 1: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/01.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/01.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBhMzhkbzBxbXRpZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KqtA7MjRomyhXlRZMap-8Hjn9tXjVGLfbxSJi_ZTqNs/image;s=2048x1536;q=80",
-          "index": 1,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with sofa and TV",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/02.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/02.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc5M3F4c2w2dWs4cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OOSW9xSgJmQd1WQrJuQ9_aguZX004NbRACjQVEVjQgY/image;s=2048x1536;q=80",
-          "index": 2,
-          "ac": "no",
-          "room": "living room",
-          "description": "sunlit living room with balcony view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/03.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/03.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inc0czVjMG5jbzBkci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.QruqvcBeqe19mxhQiUjotJjm6zbUwTRMduN3QaUusyk/image;s=2048x1536;q=80",
-          "index": 3,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with sofa",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/04.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/04.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQzMWU0OGpiYmRqMDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FYWH-JXFz6Zfdhi9FvnGRZCWfXQMle2NeOckDKFAadE/image;s=2048x1536;q=80",
-          "index": 4,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with dining table",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/05.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/05.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQybDkybzVmZms0eS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.CTVme7Fu28oqWrlmIa8kjLoUvsRP6UD3HKbq2qv0nWQ/image;s=2048x1536;q=80",
-          "index": 5,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with open refrigerator",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/06.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/06.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZxYWh4c3FyNGJvcy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.gFRqWneAZLDOEyYkdYSglR9yToX-Fw0nyQgeySMAHHo/image;s=2048x1536;q=80",
-          "index": 6,
-          "ac": "no",
-          "room": "hall",
-          "description": "hallway with wooden doors",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/07.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/07.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFjeWxzdTgyOHVseDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-Ud8eD2Hw5PnlhH-LSi4W_eyBS1ATGrkroRX54-3oOk/image;s=2048x1536;q=80",
-          "index": 7,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "small bathroom with sink and toilet",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/08.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/08.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZpNGd1cGNxbmt4NTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.drIGENq-uV2uBJE7NRgfg6LW_DI-zmCzspbf1icdZ-A/image;s=2048x1536;q=80",
-          "index": 8,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "Sunlit bedroom with green curtains",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/09.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/09.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVwbDkzNGYwMDRsczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jaJaegmVUHUKUb-UkE8OhL8mp7JYmZ1IwPqXSP5nnm4/image;s=2048x1536;q=80",
-          "index": 9,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "simple bedroom with bed and side table",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/10.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/10.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9xeWxlZ2NhczhudjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.t2IvOkEm9qDvJ5TfTc62BW6xOLKWbQHsiTAuBQ0cBDo/image;s=2048x1536;q=80",
-          "index": 10,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "Sunlit bedroom with wooden closet",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/11.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/imovirtual-18857623/11.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo5c3J3ZmY2YzgyOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.XmCTC_Mi_U5hYwnes4ENzf3GTbToYCkrG4BJMrhjsWs/image;s=2048x1536;q=80",
-          "index": 11,
-          "ac": "no",
-          "room": "other",
-          "description": "room with balcony and curtains",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 4,
-      "km": 2.2,
-      "commuteNote": "Advertised pin. Approximate advertised map pin; actual address unverified. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2644,-7.50802&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "screened",
-      "updated": "2026-05-04",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 11
-    },
-    {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-18347750",
       "title": "T4 - Fonte das Galinhas",
       "price": 700.0,
@@ -4478,6 +4375,8 @@
       "analysedPhotos": 20
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-18148730",
       "title": "Apartamento T3",
       "price": 900.0,
@@ -4611,6 +4510,8 @@
       "analysedPhotos": 9
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19308330",
       "title": "Apartamento Duplex no Fundão",
       "price": 850.0,
@@ -5060,6 +4961,8 @@
       "analysedPhotos": 40
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovirtual-19297975",
       "title": "Arrendamento apartamento centro Fundão",
       "price": 1100.0,
@@ -5158,6 +5061,8 @@
       "analysedPhotos": 6
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "excluded",
       "id": "imovirtual-18938771",
       "title": "Casa com 1 quartos - localizado em Coimbra",
       "price": 420.0,
@@ -5459,6 +5364,8 @@
       "analysedPhotos": 26
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19295478",
       "title": "Belmonte T2 com aquecimento central a pellets - Arrendamento",
       "price": 500.0,
@@ -5615,6 +5522,8 @@
       "analysedPhotos": 12
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "excluded",
       "id": "imovirtual-19304918",
       "title": "Moradia em Banda T2 / Covilhã, Casegas",
       "price": 550.0,
@@ -5823,6 +5732,8 @@
       "analysedPhotos": 17
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovirtual-19241392",
       "title": "T1 com espaço exterior",
       "price": 650.0,
@@ -5931,6 +5842,8 @@
       "analysedPhotos": 7
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "remax-123751599-55",
       "title": "T1 novo — Rua dos Descobridores, Fundão",
       "price": 680,
@@ -6210,6 +6123,8 @@
       "analysedPhotos": 22
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovia-15133247",
       "title": "T2 - Stº António / Covilhã",
       "price": 550,
@@ -6400,6 +6315,8 @@
       "analysedPhotos": 15
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "sapo-ponte-terra",
       "title": "T2 — Quinta Ponte Terra, Teixoso",
       "price": 750,
@@ -6568,6 +6485,8 @@
       "analysedPhotos": 12
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovia-19254923",
       "title": "T3 Centro da Covilhã, em condomínio fechado, com piscina",
       "price": 820,
@@ -6706,6 +6625,8 @@
       "analysedPhotos": 10
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovia-19275419",
       "title": "Apartamento T1 Covilhã",
       "price": 560,
@@ -6832,6 +6753,8 @@
       "analysedPhotos": 9
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovia-19276741",
       "title": "Aluguer apartamento T1",
       "price": 420,
@@ -6950,6 +6873,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovia-19271279",
       "title": "T2 Mobilado para Arrendamento – Centro do Fundão",
       "price": 650,
@@ -7008,6 +6933,8 @@
       "analysedPhotos": 2
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "imovia-19295460",
       "title": "ApartamentoT2 para alugar em Fundão",
       "price": 600,
@@ -7124,6 +7051,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovia-19173922",
       "title": "T1 mobilado Belmonte",
       "price": 400,
@@ -7242,6 +7171,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "imovia-19192915",
       "title": "Apartamento T2 semi-mobilado",
       "price": 550,
@@ -7360,6 +7291,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "custojusto-45428148",
       "title": "T1 Covilhã — furnished",
       "price": 350,
@@ -7478,6 +7411,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "sapo-16d7fa6c-bf20-4a2f-840e-a8da45d3b0a6",
       "title": "Apartamento T1 Covilhã e Canhoso, Covilhã",
       "price": 550.0,
@@ -7668,6 +7603,8 @@
       "analysedPhotos": 15
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "sapo-83169d76-a9ed-11f1-9a8d-060000000057",
       "title": "Apartamento T1+2 Covilhã e Canhoso, Covilhã",
       "price": 675.0,
@@ -7912,6 +7849,8 @@
       "analysedPhotos": 20
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-31634684",
       "title": "apartamento T1 na Covilhã e Canhoso",
       "price": 550.0,
@@ -8022,6 +7961,8 @@
       "analysedPhotos": 7
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35444566",
       "title": "apartamento T1 na Travessa da rua da Olivosa, 6",
       "price": 700.0,
@@ -8128,6 +8069,8 @@
       "analysedPhotos": 7
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35443346",
       "title": "apartamento T2 na Covilhã e Canhoso",
       "price": 500.0,
@@ -8226,224 +8169,8 @@
       "analysedPhotos": 6
     },
     {
-      "id": "idealista-33127643",
-      "title": "apartamento T1 na Avenida Viriato, 98 a",
-      "price": 230.0,
-      "bedrooms": 1,
-      "typology": "T1",
-      "area": "36",
-      "address": "Avenida Viriato, 98 a",
-      "town": "Tortosendo",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/33127643/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Unknown",
-      "floor": "3º andar · no lift",
-      "furnished": "Not stated",
-      "available": "December unconfirmed",
-      "conditions": [],
-      "notes": [
-        "No AC claim or visible AC detected in the retrieved photos. AC could still be present off camera."
-      ],
-      "acTag": false,
-      "acText": false,
-      "acQuote": "",
-      "photoAc": "no",
-      "roomCheck": false,
-      "roomEvidence": "A separate bedroom and another distinct interior room could not both be established from the downloaded photos.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/3d/e7/0f/232627763.webp",
-          "index": 1,
-          "ac": "no",
-          "room": "other",
-          "description": "empty room with wooden ceiling",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/02.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/02.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/09/8f/e4/232627764.webp",
-          "index": 2,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with red tile wall",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/66/bd/bb/232627778.webp",
-          "index": 3,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "wooden ceiling bathroom",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/e3/e5/51/232627779.webp",
-          "index": 4,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with red tiles",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/05.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33127643/05.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/e7/23/80/232627780.webp",
-          "index": 5,
-          "ac": "no",
-          "room": "other",
-          "description": "empty room with table and chairs",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 8,
-      "km": 5.7,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Street in title, number98A. Route from street reference; building number not independently geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2421022,-7.521825&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "screened",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 5
-    },
-    {
-      "id": "idealista-35333068",
-      "title": "duplex na Travessa de Santa Madalena, 2",
-      "price": 600.0,
-      "bedrooms": 1,
-      "typology": "T1",
-      "area": "250",
-      "address": "Travessa de Santa Madalena, 2",
-      "town": "Covilhã",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/35333068/",
-      "otherUrls": [],
-      "agency": "Royal Prime .",
-      "garage": "Unknown",
-      "floor": "Rés do chão · no lift",
-      "furnished": "Yes",
-      "available": "December unconfirmed",
-      "conditions": [],
-      "notes": [
-        "Royal Prime residence description refers to shared kitchen, dining and living rooms and T9/T10 units. Confirm this is a self-contained apartment with a separate bedroom.",
-        "T1 tag and 250 m² gross area may describe the residence rather than the rental unit.",
-        "Source labels some photos as edited with AI; confirm actual condition and layout."
-      ],
-      "acTag": true,
-      "acText": true,
-      "acQuote": "- Ar Condicionado.",
-      "photoAc": "no",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 3: bedroom. Source photo 1: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/af/f4/c0/329056736.webp",
-          "index": 1,
-          "ac": "no",
-          "room": "living room",
-          "description": "loft bedroom above stairs",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/02.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/02.jpg",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/b0/cb/43/329057378.webp",
-          "index": 2,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "modern kitchen with dining table",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/e7/8f/d8/329057379.webp",
-          "index": 3,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "modern bedroom with wooden headboard",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/89/75/2f/329057380.webp",
-          "index": 4,
-          "ac": "no",
-          "room": "living room",
-          "description": "loft bedroom above stairs",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/05.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/05.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/66/9a/4a/329057371.webp",
-          "index": 5,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with sofa and rug",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/06.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/06.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/10/f3/37/329057359.webp",
-          "index": 6,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern open-plan living area",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/07.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/07.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/07/64/6f/329057360.webp",
-          "index": 7,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "modern bedroom with wooden floor",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/08.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/08.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/b5/ce/8c/329057381.webp",
-          "index": 8,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern open-plan living space",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/09.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35333068/09.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/c4/51/7e/329057382.webp",
-          "index": 9,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with dining area",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 6,
-      "km": 3.9,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Title says Travessa de Santa Madalena; OSM geocodes Travessa da Madalena. Possible street-name variation, area estimate only. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2800537,-7.5015864&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "review",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 9
-    },
-    {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35434085",
       "title": "apartamento T5 na Covilhã e Canhoso",
       "price": 600.0,
@@ -8692,6 +8419,8 @@
       "analysedPhotos": 21
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35385029",
       "title": "apartamento T2 no Largo do norte",
       "price": 600.0,
@@ -8830,6 +8559,8 @@
       "analysedPhotos": 10
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35363742",
       "title": "apartamento T2 na Covilhã e Canhoso",
       "price": 1000.0,
@@ -9290,6 +9021,8 @@
       "analysedPhotos": 42
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35255074",
       "title": "apartamento T2 na Covilhã e Canhoso",
       "price": 750.0,
@@ -9448,6 +9181,8 @@
       "analysedPhotos": 12
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35240346",
       "title": "apartamento T3 na Rua da Urbanização do Ribeiro Negro, 2",
       "price": 800.0,
@@ -9710,292 +9445,8 @@
       "analysedPhotos": 22
     },
     {
-      "id": "idealista-35263320",
-      "title": "apartamento T4 na Rua Das Tulipas, 30 b",
-      "price": 950.0,
-      "bedrooms": 4,
-      "typology": "T4",
-      "area": "140",
-      "address": "Rua Das Tulipas, 30 b",
-      "town": "Covilhã",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/35263320/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Included",
-      "floor": "1º andar · lift",
-      "furnished": "Yes",
-      "available": "December unconfirmed",
-      "conditions": [],
-      "notes": [],
-      "acTag": false,
-      "acText": false,
-      "acQuote": "",
-      "photoAc": "possible",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 6: bedroom. Source photo 9: bathroom. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/31/30/38/326411045.webp",
-          "index": 1,
-          "ac": "no",
-          "room": "exterior",
-          "description": "balcony with chairs and railing",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/02.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/02.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/37/d3/5b/326411091.webp",
-          "index": 2,
-          "ac": "no",
-          "room": "other",
-          "description": "",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/71/be/f3/326411094.webp",
-          "index": 3,
-          "ac": "no",
-          "room": "other",
-          "description": "no specific room identified",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/da/1f/e3/326411046.webp",
-          "index": 4,
-          "ac": "possible",
-          "room": "exterior",
-          "description": "building exterior wall",
-          "acLocation": "Possible condenser on the apartment building; exact rental unit is not established."
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/05.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/05.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/b1/05/44/326411107.webp",
-          "index": 5,
-          "ac": "no",
-          "room": "exterior",
-          "description": "balcony view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/06.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/06.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/56/9d/33/326411021.webp",
-          "index": 6,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "bedroom with wooden floor",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/07.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/07.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/8b/ba/57/326411086.webp",
-          "index": 7,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "bedroom with wooden furniture",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/08.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/08.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/84/e9/6b/326411108.webp",
-          "index": 8,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "bedroom with TV and radiator",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/09.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/09.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/92/b3/4b/326411117.webp",
-          "index": 9,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "small bathroom with sink and toilet",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/10.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/10.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/12/a4/1b/326411044.webp",
-          "index": 10,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "modern bedroom with bed and desk",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/11.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/11.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/a8/dd/4d/326411103.webp",
-          "index": 11,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "simple bedroom with bed and desk",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/12.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/12.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/0d/8f/8c/326411085.webp",
-          "index": 12,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "Minimalist bedroom with desk and bed",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/13.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/13.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/2f/a8/64/326411076.webp",
-          "index": 13,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "Minimalist bedroom with bed and rug",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/14.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/14.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/fc/23/8e/326411100.webp",
-          "index": 14,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "simple bedroom with bed and radiator",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/15.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/15.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/93/4a/c7/326411127.webp",
-          "index": 15,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "bathroom with sink and tub",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/16.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/16.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/0d/a9/70/326411095.webp",
-          "index": 16,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "bathroom with sink and tub",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/17.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/17.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/44/01/b2/326411084.webp",
-          "index": 17,
-          "ac": "no",
-          "room": "hall",
-          "description": "wooden floor hallway",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/18.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/18.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/67/ed/72/326411101.webp",
-          "index": 18,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "small bathroom with sink and toilet",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/19.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/19.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/2c/ce/1c/326411102.webp",
-          "index": 19,
-          "ac": "no",
-          "room": "hall",
-          "description": "hallway with green walls",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/20.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/20.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/98/3c/4f/326411109.webp",
-          "index": 20,
-          "ac": "no",
-          "room": "hall",
-          "description": "wooden doors and green walls",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/21.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/21.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/2c/1a/d9/326411020.webp",
-          "index": 21,
-          "ac": "no",
-          "room": "hall",
-          "description": "hallway leading to living room",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/22.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/22.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/58/bf/58/326411093.webp",
-          "index": 22,
-          "ac": "no",
-          "room": "living room",
-          "description": "living room with sofa and TV",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/23.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/23.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/7a/31/65/326411092.webp",
-          "index": 23,
-          "ac": "no",
-          "room": "living room",
-          "description": "living room with sofa and TV",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/24.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/24.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/09/72/fb/326411075.webp",
-          "index": 24,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with tiled floor and window",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/25.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35263320/25.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/e2/a4/6c/326411083.webp",
-          "index": 25,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with dining table",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 5,
-      "km": 2.4,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad gives Rua das Tulipas30B. Route from street reference, exact number not geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2774581,-7.4797999&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "match",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 25
-    },
-    {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35398089",
       "title": "apartamento T2 na Rua Grupo Recreativo Refugiense",
       "price": 600.0,
@@ -10167,6 +9618,8 @@
       "analysedPhotos": 13
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35335289",
       "title": "apartamento T1 na Rua 6 de Dezembro, 34",
       "price": 700.0,
@@ -10385,6 +9838,8 @@
       "analysedPhotos": 18
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-34471220",
       "title": "apartamento T2 na Avenida Frei Heitor Pinto, 12",
       "price": 750.0,
@@ -10611,229 +10066,8 @@
       "analysedPhotos": 19
     },
     {
-      "id": "idealista-35147273",
-      "title": "apartamento T2 na Rua dos Fragões, 6215-120 Penhas da Saúde, 27",
-      "price": 900.0,
-      "bedrooms": 2,
-      "typology": "T2",
-      "area": "46",
-      "address": "Rua dos Fragões, 6215-120 Penhas da Saúde, 27",
-      "town": "Penhas da Saúde",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/35147273/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Unknown",
-      "floor": "2º andar · no lift",
-      "furnished": "Yes",
-      "available": "December unconfirmed",
-      "conditions": [
-        "Water, electricity and internet excluded.",
-        "No pets.",
-        "Pets not accepted."
-      ],
-      "notes": [
-        "Medium-duration/seasonal rental in Penhas da Saúde. Winter mountain driving time can exceed dry-road route estimate.",
-        "Mountain road: winter snow or ice can extend or prevent the drive. The drive estimate assumes normal road conditions."
-      ],
-      "acTag": true,
-      "acText": true,
-      "acQuote": "Dois aparelhos de ar condicionado (sala e quarto);",
-      "photoAc": "yes",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 1: bedroom. Source photo 3: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/5d/7e/61/322101479.webp",
-          "index": 1,
-          "ac": "yes",
-          "room": "bedroom",
-          "description": "modern bedroom with wooden wall",
-          "acLocation": "wall-mounted unit above bed"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/02.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/02.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/68/2b/86/322101480.webp",
-          "index": 2,
-          "ac": "no",
-          "room": "exterior",
-          "description": "balcony view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/4a/00/0d/322101430.webp",
-          "index": 3,
-          "ac": "yes",
-          "room": "living room",
-          "description": "living room with sofa and TV",
-          "acLocation": "wall-mounted AC unit above TV"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/29/11/97/322101425.webp",
-          "index": 4,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with TV and dining area",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/05.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/05.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/9d/ac/fa/322101471.webp",
-          "index": 5,
-          "ac": "yes",
-          "room": "living room",
-          "description": "modern living room with sofa and TV",
-          "acLocation": "wall-mounted indoor unit above TV"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/06.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/06.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/97/a8/df/322101890.webp",
-          "index": 6,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "child's bunk bed room",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/07.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/07.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/93/e4/c9/322101429.webp",
-          "index": 7,
-          "ac": "yes",
-          "room": "bedroom",
-          "description": "wood-paneled bedroom with bed",
-          "acLocation": "top right corner, wall-mounted unit"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/08.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/08.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/4e/74/90/322101464.webp",
-          "index": 8,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with wooden cabinets",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/09.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/09.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/4a/46/ec/322101469.webp",
-          "index": 9,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "modern bathroom with greenery",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/10.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/10.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/b2/10/41/322101473.webp",
-          "index": 10,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "modern bathroom with glass shower",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/11.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/11.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/33/5a/2d/322101431.webp",
-          "index": 11,
-          "ac": "no",
-          "room": "hall",
-          "description": "entryway with wooden floor",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/12.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/12.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/b9/39/e7/322101446.webp",
-          "index": 12,
-          "ac": "no",
-          "room": "exterior",
-          "description": "balcony with yellow railing",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/13.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/13.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/46/62/e9/322101470.webp",
-          "index": 13,
-          "ac": "no",
-          "room": "exterior",
-          "description": "balcony or terrace",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/14.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/14.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/0b/fb/27/322101445.webp",
-          "index": 14,
-          "ac": "possible",
-          "room": "exterior",
-          "description": "building exterior wall",
-          "acLocation": "wall-mounted outdoor unit. Confirm this outdoor unit serves the advertised apartment."
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/15.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/15.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/89/80/af/322101472.webp",
-          "index": 15,
-          "ac": "no",
-          "room": "",
-          "description": "",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/16.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/16.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/cc/29/49/322130131.webp",
-          "index": 16,
-          "ac": "no",
-          "room": "other",
-          "description": "",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/17.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/17.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/1c/f3/89/322130137.webp",
-          "index": 17,
-          "ac": "no",
-          "room": "other",
-          "description": "balcony view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/18.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35147273/18.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/1c/ed/de/322130138.webp",
-          "index": 18,
-          "ac": "no",
-          "room": "other",
-          "description": "no room description",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 21,
-      "km": 14.3,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad gives Rua dos Fragões27, Penhas da Saúde. Route from village reference; exact building unknown. No allowance for winter road conditions. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.308064,-7.5487713&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "match",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 18
-    },
-    {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35018897",
       "title": "apartamento T2 na Estrada da Palmatória",
       "price": 650.0,
@@ -10952,6 +10186,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-32405531",
       "title": "apartamento T1 na Rua António Augusto de Aguiar",
       "price": 600.0,
@@ -11110,6 +10346,8 @@
       "analysedPhotos": 12
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35401437",
       "title": "apartamento T1 na Travessa da Quinta dos Negreiros, 4",
       "price": 600.0,
@@ -11280,6 +10518,8 @@
       "analysedPhotos": 13
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-34634548",
       "title": "apartamento T2 na Covilhã e Canhoso",
       "price": 1100.0,
@@ -11456,6 +10696,8 @@
       "analysedPhotos": 14
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35337429",
       "title": "apartamento T1 na Rua do Grupo Recreativo Refugiense",
       "price": 550.0,
@@ -11552,6 +10794,8 @@
       "analysedPhotos": 6
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-34971505",
       "title": "apartamento T1 na Travessa da rua da Olivosa, 6",
       "price": 700.0,
@@ -11718,6 +10962,8 @@
       "analysedPhotos": 13
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "excluded",
       "id": "idealista-33487113",
       "title": "apartamento T3 na Rua da Indústria, 48",
       "price": 700.0,
@@ -11846,6 +11092,8 @@
       "analysedPhotos": 9
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35344099",
       "title": "apartamento T2 na Covilhã e Canhoso",
       "price": 700.0,
@@ -12012,164 +11260,8 @@
       "analysedPhotos": 13
     },
     {
-      "id": "idealista-33874322",
-      "title": "apartamento T1 na Avenida da Universidade, 17",
-      "price": 650.0,
-      "bedrooms": 1,
-      "typology": "T1",
-      "area": "55",
-      "address": "Avenida da Universidade, 17",
-      "town": "Covilhã",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/33874322/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Unknown",
-      "floor": "Rés do chão · no lift",
-      "furnished": "Yes",
-      "available": "December unconfirmed",
-      "conditions": [
-        "Price may change with rental duration."
-      ],
-      "notes": [],
-      "acTag": true,
-      "acText": true,
-      "acQuote": "Ar condicionado e painéis solares para maior eficiência e sustentabilidade",
-      "photoAc": "yes",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 1: bedroom. Source photo 2: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/dc/33/d1/269741191.webp",
-          "index": 1,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "bedroom with window view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/02.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/02.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/51/9f/b3/299164870.webp",
-          "index": 2,
-          "ac": "yes",
-          "room": "living room",
-          "description": "modern open-plan living kitchen",
-          "acLocation": "white wall, upper left"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/35/57/59/299164867.webp",
-          "index": 3,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with sofa",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/f3/de/f6/299164861.webp",
-          "index": 4,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with sofa and rug",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/05.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/05.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/d4/c4/1d/299164868.webp",
-          "index": 5,
-          "ac": "yes",
-          "room": "living room",
-          "description": "modern living room with TV and plants",
-          "acLocation": "wall-mounted indoor split AC unit"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/06.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/06.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/d8/04/9d/299164869.webp",
-          "index": 6,
-          "ac": "yes",
-          "room": "living room",
-          "description": "modern living room with bed",
-          "acLocation": "wall-mounted unit above TV"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/07.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/07.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/d3/66/77/299164863.webp",
-          "index": 7,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "minimalist bedroom with rug and wardrobe",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/08.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/08.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/fd/c7/c0/299164625.webp",
-          "index": 8,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "minimalist bedroom with large window",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/09.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/09.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/e7/ba/ae/299164855.webp",
-          "index": 9,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "modern bathroom with sink and toilet",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/10.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/10.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/8c/b1/69/299164871.webp",
-          "index": 10,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "modern bathroom with marble tiles",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/11.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/11.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/4a/2f/5a/269741252.webp",
-          "index": 11,
-          "ac": "no",
-          "room": "exterior",
-          "description": "rooftop solar panels",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/12.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33874322/12.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/a4/c7/1a/301956517.webp",
-          "index": 12,
-          "ac": "no",
-          "room": "other",
-          "description": "",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 5,
-      "km": 2.8,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad gives Avenida da Universidade17; street reference, number not independently geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2763044,-7.5077712&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "match",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 12
-    },
-    {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35348093",
       "title": "apartamento T3 em N230, 39 -37",
       "price": 595.0,
@@ -12320,6 +11412,8 @@
       "analysedPhotos": 11
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35256372",
       "title": "apartamento T4 na Covilhã e Canhoso",
       "price": 800.0,
@@ -12468,86 +11562,8 @@
       "analysedPhotos": 11
     },
     {
-      "id": "idealista-34449141",
-      "title": "apartamento T1 na Rua das Flores, 1",
-      "price": 620.0,
-      "bedrooms": 1,
-      "typology": "T1",
-      "area": "40",
-      "address": "Rua das Flores, 1",
-      "town": "Covilhã",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/34449141/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Unknown",
-      "floor": "Rés do chão · no lift",
-      "furnished": "Kitchen fitted; furniture unconfirmed",
-      "available": "December unconfirmed",
-      "conditions": [
-        "Stays shorter than 6 months priced on request."
-      ],
-      "notes": [
-        "Description explicitly calls this a studio with mezzanine despite T1 tag. Enclosed bedroom unconfirmed."
-      ],
-      "acTag": true,
-      "acText": true,
-      "acQuote": "Ar Condicionado",
-      "photoAc": "yes",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 2: bedroom. Source photo 1: kitchen. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34449141/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34449141/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/f7/7f/f4/324906346.webp",
-          "index": 1,
-          "ac": "yes",
-          "room": "kitchen",
-          "description": "kitchen with yellow table",
-          "acLocation": "wall-mounted unit above window"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34449141/02.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34449141/02.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/5d/ca/d9/324906415.webp",
-          "index": 2,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "loft bedroom with glass railing",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34449141/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34449141/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/10/b2/08/324906427.webp",
-          "index": 3,
-          "ac": "no",
-          "room": "living room",
-          "description": "living room with TV and table",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34449141/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34449141/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/cc/28/76/324906419.webp",
-          "index": 4,
-          "ac": "possible",
-          "room": "exterior",
-          "description": "upper floor exterior wall",
-          "acLocation": "wall-mounted unit on upper floor. Confirm this outdoor unit serves the advertised apartment."
-        }
-      ],
-      "minutes": 7,
-      "km": 4.0,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad names Rua dasFlores1 but describes historic center. Several streets share this name and none unambiguously matched center; central-city reference only, very low confidence. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2806519,-7.5063945&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "review",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 4
-    },
-    {
+      "requiresApproval": false,
+      "evidenceStatus": "review",
       "id": "idealista-32240334",
       "title": "apartamento T1 na Rua Mateus Fernandes, 17",
       "price": 400.0,
@@ -12660,6 +11676,8 @@
       "analysedPhotos": 6
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-34517439",
       "title": "apartamento T1 em R. Dr. Gabriel Boavida Castelo Branco, 9",
       "price": 500.0,
@@ -12748,6 +11766,8 @@
       "analysedPhotos": 5
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-34109367",
       "title": "apartamento T1 na Rua da Amoreira, 13",
       "price": 400.0,
@@ -12836,6 +11856,8 @@
       "analysedPhotos": 5
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35413229",
       "title": "apartamento T2 na Travessa da Lameira, 20",
       "price": 450.0,
@@ -12904,6 +11926,8 @@
       "analysedPhotos": 3
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-33670901",
       "title": "apartamento T2 na Rua do Urbanização da Quinta do Pinheiro, 4",
       "price": 1000.0,
@@ -13010,6 +12034,8 @@
       "analysedPhotos": 7
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-34869791",
       "title": "apartamento T1 na Travessa da Fonte Santa, 6",
       "price": 650.0,
@@ -13226,137 +12252,8 @@
       "analysedPhotos": 18
     },
     {
-      "id": "idealista-34918860",
-      "title": "apartamento T1 na Rua da Calçada de Santo André, 46",
-      "price": 500.0,
-      "bedrooms": 1,
-      "typology": "T1",
-      "area": "50",
-      "address": "Rua da Calçada de Santo André, 46",
-      "town": "Covilhã",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/34918860/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Unknown",
-      "floor": "2º andar · no lift",
-      "furnished": "Yes",
-      "available": "December unconfirmed",
-      "conditions": [
-        "One month deposit."
-      ],
-      "notes": [
-        "Maximum one occupant; temporary-rental tag. Description absent.",
-        "Temporary rental advertised; confirm a contract covering your intended stay."
-      ],
-      "acTag": true,
-      "acText": true,
-      "acQuote": "Ar condicionado",
-      "photoAc": "yes",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 7: bedroom. Source photo 1: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/72/dd/9a/312710010.webp",
-          "index": 1,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/02.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/02.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/ab/6c/1e/312710012.webp",
-          "index": 2,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "modern bathroom with marble walls",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/8e/85/d7/312710142.webp",
-          "index": 3,
-          "ac": "yes",
-          "room": "kitchen",
-          "description": "modern open-concept apartment",
-          "acLocation": "wall-mounted unit above kitchen sink"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/a9/7f/9f/312710175.webp",
-          "index": 4,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "modern bathroom with shower and sink",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/05.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/05.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/f2/b7/49/312710176.webp",
-          "index": 5,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern living room with view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/06.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/06.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/46/a6/2e/312710178.webp",
-          "index": 6,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "small kitchenette",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/07.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/07.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/79/8c/06/312710179.webp",
-          "index": 7,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "modern bedroom with pink bedding",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/08.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/08.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/9a/49/d5/312710180.webp",
-          "index": 8,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "modern bathroom with shower and toilet",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/09.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-34918860/09.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/4d/da/08/312710181.webp",
-          "index": 9,
-          "ac": "no",
-          "room": "living room",
-          "description": "cozy living room with view",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 6,
-      "km": 3.5,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad gives CalçadaSantoAndré46; street reference, building number not geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2785319,-7.5061013&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "match",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 9
-    },
-    {
+      "requiresApproval": false,
+      "evidenceStatus": "excluded",
       "id": "idealista-34787240",
       "title": "apartamento T1 na Rua de s André, 38",
       "price": 500.0,
@@ -13406,6 +12303,8 @@
       "analysedPhotos": 1
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35131662",
       "title": "apartamento T2 na Rua Gil Vicente",
       "price": 800.0,
@@ -13692,6 +12591,8 @@
       "analysedPhotos": 25
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35375448",
       "title": "apartamento T1 em Fundão - Valverde - Donas - Aldeia de Joanes - Aldeia Nova do Cabo",
       "price": 550.0,
@@ -13897,6 +12798,8 @@
       "analysedPhotos": 15
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35078874",
       "title": "apartamento T1 na Rua do Sousa, 5",
       "price": 650.0,
@@ -14276,6 +13179,8 @@
       "analysedPhotos": 34
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35124968",
       "title": "apartamento T4 na Rua Gil Vicente, 118",
       "price": 700.0,
@@ -14590,6 +13495,8 @@
       "analysedPhotos": 27
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35438884",
       "title": "apartamento T2 na Rua Loteamento Rebordão, 28",
       "price": 600.0,
@@ -14701,6 +13608,8 @@
       "analysedPhotos": 7
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-34787281",
       "title": "apartamento T1 na Avenida Padre Ferraz, 17",
       "price": 800.0,
@@ -14909,292 +13818,8 @@
       "analysedPhotos": 17
     },
     {
-      "id": "idealista-33960268",
-      "title": "apartamento T2 na Rua Nova dos Três Lagares, 1",
-      "price": 700.0,
-      "bedrooms": 2,
-      "typology": "T2",
-      "area": "90",
-      "address": "Rua Nova dos Três Lagares, 1",
-      "town": "Fundão",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/33960268/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Unknown",
-      "floor": "3º andar · no lift",
-      "furnished": "Not stated",
-      "available": "December unconfirmed",
-      "conditions": [],
-      "notes": [
-        "No AC claim or visible AC detected in the retrieved photos. AC could still be present off camera."
-      ],
-      "acTag": false,
-      "acText": false,
-      "acQuote": "",
-      "photoAc": "no",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 5: bedroom. Source photo 1: hall. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/da/ab/ac/274144294.webp",
-          "index": 1,
-          "ac": "no",
-          "room": "hall",
-          "description": "hallway with mirror and chair",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/02.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/02.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/a8/b1/98/274144272.webp",
-          "index": 2,
-          "ac": "no",
-          "room": "hall",
-          "description": "small storage room",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/5d/bb/a3/274143469.webp",
-          "index": 3,
-          "ac": "no",
-          "room": "exterior",
-          "description": "balcony view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/51/2e/fa/274143472.webp",
-          "index": 4,
-          "ac": "no",
-          "room": "hall",
-          "description": "wooden floor, glass doors",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/05.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/05.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/ce/7c/b2/274143473.webp",
-          "index": 5,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "bedroom with floral bedspread",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/06.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/06.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/6e/37/0d/274143474.webp",
-          "index": 6,
-          "ac": "no",
-          "room": "exterior",
-          "description": "balcony with green railing",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/07.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/07.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/09/7e/d7/274144355.webp",
-          "index": 7,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "wooden bed, window view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/08.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-33960268/08.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/47/27/a9/274144365.webp",
-          "index": 8,
-          "ac": "no",
-          "room": "hall",
-          "description": "staircase entrance hallway",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 19,
-      "km": 19.9,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad gives RuaNovaTrêsLagares1; street reference, building number not geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.1360205,-7.5024768&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "screened",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 8
-    },
-    {
-      "id": "idealista-35242075",
-      "title": "apartamento T3 na Rua Cidade Castelo Branco, 17",
-      "price": 570.0,
-      "bedrooms": 3,
-      "typology": "T3",
-      "area": "110",
-      "address": "Rua Cidade Castelo Branco, 17",
-      "town": "Fundão",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/35242075/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Included",
-      "floor": "2º andar · no lift",
-      "furnished": "Not stated",
-      "available": "December unconfirmed",
-      "conditions": [],
-      "notes": [
-        "No AC claim or visible AC detected in the retrieved photos. AC could still be present off camera."
-      ],
-      "acTag": false,
-      "acText": false,
-      "acQuote": "",
-      "photoAc": "no",
-      "roomCheck": false,
-      "roomEvidence": "A separate bedroom and another distinct interior room could not both be established from the downloaded photos.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/8f/49/6e/325678690.webp",
-          "index": 1,
-          "ac": "no",
-          "room": "living room",
-          "description": "empty room with chandelier",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/02.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/02.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/55/5c/d1/325678747.webp",
-          "index": 2,
-          "ac": "no",
-          "room": "hall",
-          "description": "wooden door hallway",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/03.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/03.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/48/47/2e/325678566.webp",
-          "index": 3,
-          "ac": "no",
-          "room": "exterior",
-          "description": "balcony view",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/04.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/04.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/74/01/6f/325678739.webp",
-          "index": 4,
-          "ac": "no",
-          "room": "other",
-          "description": "empty room with windows",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/05.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/05.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/ae/d1/78/325678738.webp",
-          "index": 5,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with fireplace and table",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/06.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/06.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/ff/04/08/325678691.webp",
-          "index": 6,
-          "ac": "no",
-          "room": "other",
-          "description": "empty room with wooden floor",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/07.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/07.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/09/e8/d2/325678565.webp",
-          "index": 7,
-          "ac": "no",
-          "room": "hall",
-          "description": "hallway with wooden doors",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/08.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/08.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/48/5c/fd/325678676.webp",
-          "index": 8,
-          "ac": "no",
-          "room": "other",
-          "description": "empty room with window and cabinets",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/09.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/09.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/fb/f6/24/325678689.webp",
-          "index": 9,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "kitchen with white cabinets",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/10.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/10.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/b3/33/9b/325678692.webp",
-          "index": 10,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "small tiled bathroom",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/11.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/11.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/bb/dc/b0/325678734.webp",
-          "index": 11,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "small tiled bathroom",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/12.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/12.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/2b/ea/c9/325678735.webp",
-          "index": 12,
-          "ac": "no",
-          "room": "hall",
-          "description": "long hallway with wooden floor",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/13.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/images/idealista-35242075/13.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/fa/c0/8b/325678736.webp",
-          "index": 13,
-          "ac": "no",
-          "room": "living room",
-          "description": "empty living room with chandelier",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 18,
-      "km": 19.1,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad gives RuaCidadeCasteloBranco17; street reference, building number not geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.1340547,-7.4957796&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "screened",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 13
-    },
-    {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35239757",
       "title": "apartamento T3 na Avenida da Liberdade, 42",
       "price": 900.0,
@@ -15383,6 +14008,8 @@
       "analysedPhotos": 15
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35399320",
       "title": "apartamento T2 na Rua sesmarias, 5 a",
       "price": 600.0,
@@ -15509,6 +14136,8 @@
       "analysedPhotos": 9
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35360612",
       "title": "apartamento T4 em Fundão - Valverde - Donas - Aldeia de Joanes - Aldeia Nova do Cabo",
       "price": 950.0,
@@ -15627,6 +14256,8 @@
       "analysedPhotos": 8
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "screened",
       "id": "idealista-35365577",
       "title": "apartamento T3 em N18, 11",
       "price": 700.0,
@@ -15665,6 +14296,8 @@
       "analysedPhotos": 0
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35242978",
       "title": "apartamento T3 na Rua do Estrelado, 9",
       "price": 800.0,
@@ -15871,6 +14504,8 @@
       "analysedPhotos": 17
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "review",
       "id": "idealista-35324374",
       "title": "apartamento T3 em Belmonte",
       "price": 550.0,
@@ -16129,6 +14764,8 @@
       "analysedPhotos": 22
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "review",
       "id": "idealista-34641118",
       "title": "apartamento T2 no Largo da Laje da Sobreira, 2",
       "price": 330.0,
@@ -16407,6 +15044,8 @@
       "analysedPhotos": 24
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "review",
       "id": "idealista-35436838",
       "title": "apartamento T1 na Covilhã e Canhoso",
       "price": 420.0,
@@ -16505,6 +15144,8 @@
       "analysedPhotos": 6
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "review",
       "id": "idealista-33300726",
       "title": "apartamento T0 na Rua José Caetano Júnior, 42",
       "price": 450.0,
@@ -16632,6 +15273,8 @@
       "analysedPhotos": 7
     },
     {
+      "requiresApproval": false,
+      "evidenceStatus": "match",
       "id": "idealista-35336119",
       "title": "andar de moradia na Rua das Amoreiras, 20",
       "price": 700.0,
@@ -17033,6 +15676,8 @@
       "analysedPhotos": 36
     },
     {
+      "requiresApproval": true,
+      "evidenceStatus": "review",
       "id": "imovirtual-19331246",
       "title": "T2 arrendamento - 1.º Andar",
       "price": 450.0,
@@ -17123,6 +15768,8 @@
       "analysedPhotos": 5
     },
     {
+      "requiresApproval": true,
+      "evidenceStatus": "match",
       "id": "idealista-35449672",
       "title": "Apartamento T3 na Urbanização Quinta da Várzea, 1",
       "price": 650,
@@ -17337,12 +15984,14 @@
       "km": 5.3,
       "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Named street in the advertisement; building number not geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2960996,-7.4727103&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "match",
+      "status": "review",
       "updated": "2026-10-30",
       "checked": "31 Oct 2026",
       "analysedPhotos": 18
     },
     {
+      "requiresApproval": true,
+      "evidenceStatus": "screened",
       "id": "idealista-35449569",
       "title": "Apartamento T5 na Rua do Rodrigo, 72",
       "price": 650,
@@ -17537,12 +16186,14 @@
       "km": 3.1,
       "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Named street in the advertisement; building number not geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2835971,-7.5009516&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "screened",
+      "status": "review",
       "updated": "2026-10-30",
       "checked": "31 Oct 2026",
       "analysedPhotos": 16
     },
     {
+      "requiresApproval": true,
+      "evidenceStatus": "screened",
       "id": "imovia-19295652",
       "title": "Apartamento T2 para alugar — Covilhã",
       "price": 700,
@@ -17625,7 +16276,7 @@
       "km": 2.0,
       "commuteNote": "Advertised pin. Low confidence: same map pin is used by multiple unrelated ads; not an exact property location. OSRM estimate; excludes live traffic, parking and walking to your department.",
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.27882,-7.48314&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "screened",
+      "status": "review",
       "updated": "2026-10-08",
       "checked": "31 Oct 2026",
       "analysedPhotos": 5
@@ -17684,6 +16335,6 @@
     "branch": "images",
     "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/",
     "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/3aed9a8442be2fea4d4780b766f5dfb6597d4b40/image-manifest.json",
-    "photoCount": 1346
+    "photoCount": 1232
   }
 }

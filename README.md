@@ -46,3 +46,5 @@ The tracker is one shared set of records, editable and readable by anyone with t
 Local secrets: `TURSO_DATABASE_URL` and `TURSO_AUTH_TOKEN` in ignored `.env.local` (setup script) and `.dev.vars` (Cloudflare preview). Initialize with `node --env-file=.env.local scripts/setup-tracking-db.mjs`. Configure the same names as hosted Sites runtime secrets before deploying. Never commit credentials, personal tracking data, or `.env.local`.
 
 Daily search instructions: [docs/daily-search.md](docs/daily-search.md). `/api/listings` reads the latest GitHub main dataset in production, so scheduled data updates do not require redeploying the app. Local preview reads the local dataset. Search/classification runs locally with MLX; the Mac must be available.
+
+New discoveries enter Needs review until Approve apartment is clicked; approval syncs through Turso. Move to review reverses approval. Temporary-rental tags on any linked source exclude the apartment entirely from the public dataset. Existing contact/visit/notes records are preserved when listings are excluded.

@@ -6,6 +6,10 @@ const authToken = process.env.TURSO_AUTH_TOKEN;
 if (!url || !authToken) throw new Error('Set TURSO_DATABASE_URL and TURSO_AUTH_TOKEN in .env.local');
 const db = createClient({ url, authToken });
 await db.execute(readFileSync(new URL('../db/tracking.sql', import.meta.url), 'utf8'));
+const columns = await db.execute('PRAGMA table_info(apartment_tracking)');
+if (!columns.rows.some(row => row.name === 'approved')) {
+  await db.execute('ALTER TABLE apartment_tracking ADD COLUMN approved INTEGER NOT NULL DEFAULT 0 CHECK (approved IN (0, 1))');
+}
 await db.execute('SELECT listing_id FROM apartment_tracking LIMIT 1');
 console.log('Shared tracker schema ready; connection verified.');
 db.close();

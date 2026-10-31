@@ -11,7 +11,7 @@ export async function GET() {
   try {
     const result = await getTurso().execute("SELECT * FROM apartment_tracking");
     return json({ tracking: Object.fromEntries(result.rows.map(r => [String(r.listing_id), {
-      contacted: !!r.contacted, visitAt: String(r.visit_at), notes: String(r.notes), removed: !!r.removed,
+      approved: !!r.approved, contacted: !!r.contacted, visitAt: String(r.visit_at), notes: String(r.notes), removed: !!r.removed,
     }])) });
   } catch {
     return json({ error: "Could not load the shared tracker. Database setup or connection needs attention." }, 503);
@@ -22,7 +22,7 @@ export async function PATCH(request: Request) {
   const schema = z.object({
     id: z.string().regex(/^[a-zA-Z0-9-]{1,100}$/),
     patch: z.object({
-      contacted: z.boolean().optional(), removed: z.boolean().optional(),
+      approved: z.boolean().optional(), contacted: z.boolean().optional(), removed: z.boolean().optional(),
       notes: z.string().max(20000).optional(),
       visitAt: z.string().refine(v => v === "" || (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$/.test(v) && !Number.isNaN(Date.parse(v)))).optional(),
     }).strict().refine(v => Object.keys(v).length > 0),
@@ -32,7 +32,7 @@ export async function PATCH(request: Request) {
   const parsed = schema.safeParse(body);
   if (!parsed.success) return json({ error: "Invalid tracking fields or visit date; notes limit is 20,000 characters" }, 400);
   const { id, patch } = parsed.data;
-  const columns = { contacted: "contacted", visitAt: "visit_at", notes: "notes", removed: "removed" };
+  const columns = { approved: "approved", contacted: "contacted", visitAt: "visit_at", notes: "notes", removed: "removed" };
   const keys = Object.keys(patch) as (keyof typeof patch)[];
   try {
     const names = keys.map(k => columns[k]);

@@ -1361,3 +1361,5 @@ input[type="range"] {
 .card-tracking label { display:flex; align-items:center; gap:6px; }
 .card-notes { width:100%; white-space:pre-wrap; max-height:3em; overflow:hidden; color:var(--muted-foreground); }
 .save:disabled { opacity:.5; cursor:not-allowed; }
+
+.approve-apartment { margin:12px 0 0; width:100%; }

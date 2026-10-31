@@ -1,9 +1,10 @@
 export type ApartmentTracking = {
+  approved: boolean;
   contacted: boolean;
   visitAt: string;
   notes: string;
   removed: boolean;
 };
 export const emptyTracking: ApartmentTracking = {
-  contacted: false, visitAt: "", notes: "", removed: false,
+  approved: false, contacted: false, visitAt: "", notes: "", removed: false,
 };

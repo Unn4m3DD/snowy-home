@@ -4,9 +4,10 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import type { ApartmentTracking } from "@/lib/tracking";
 
-export function TrackingFields({ value, disabled, onChange }: {
+export function TrackingFields({ value, disabled, needsReview, onChange }: {
   value: ApartmentTracking;
   disabled: boolean;
+  needsReview: boolean;
   onChange: (patch: Partial<ApartmentTracking>) => Promise<boolean>;
 }) {
   const [draft, setDraft] = useState<string | null>(null);
@@ -19,6 +20,8 @@ export function TrackingFields({ value, disabled, onChange }: {
     <label>Visit · Portugal time<Input type="datetime-local" value={visitAt} disabled={disabled} onInput={e => setVisitDraft(e.currentTarget.value)} onChange={e => setVisitDraft(e.target.value)} /></label>
     <label>Notes<textarea rows={4} maxLength={20000} value={notes} disabled={disabled} onChange={e => setDraft(e.target.value)} /></label>
     <div className="tracking-actions">
+      {needsReview && <Button disabled={disabled} onClick={() => void onChange({ approved: true })}>Approve apartment</Button>}
+      {value.approved && <Button variant="outline" disabled={disabled} onClick={() => void onChange({ approved: false })}>Move to review</Button>}
       <Button variant="outline" disabled={disabled || (notes === value.notes && visitAt === value.visitAt)} onClick={async () => {
         const patch: Partial<ApartmentTracking> = {};
         if (notes !== value.notes) patch.notes = notes;
