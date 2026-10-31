@@ -1363,3 +1363,10 @@ input[type="range"] {
 .save:disabled { opacity:.5; cursor:not-allowed; }
 
 .approve-apartment { margin:12px 0 0; width:100%; }
+
+.visit-picker { display:flex; flex-direction:column; gap:6px; margin-bottom:12px; font-size:13px; }
+.visit-picker-controls { display:flex; align-items:center; gap:6px; flex-wrap:wrap; }
+.visit-date-trigger { flex:1; justify-content:flex-start; min-width:145px; }
+.visit-time-select { width:68px; }
+.visit-calendar-popover { width:auto; padding:0; z-index:120; }
+.clear-visit { align-self:flex-start; text-decoration:underline; font-size:12px; cursor:pointer; }
