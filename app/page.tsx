@@ -7,7 +7,7 @@ import {
   BedDouble,
   Car,
   Check,
-  Heart,
+  Trash2,
   MapPin,
   Snowflake,
   SlidersHorizontal,
@@ -25,6 +25,9 @@ import {
   DialogTitle,
   DialogDescription,
 } from "@/components/ui/dialog";
+
+import { TrackingFields } from "@/components/tracker/tracking-fields";
+import { emptyTracking, type ApartmentTracking } from "@/lib/tracking";
 
 type Photo = {
   src: string;
@@ -183,6 +186,8 @@ function PhotoView({ l, onOpen }: { l: Listing; onOpen: () => void }) {
 }
 export default function Home() {
   const galleryScrollRef = useRef<HTMLDivElement>(null);
+  const trackerRevision = useRef(0);
+  const savingRef = useRef(false);
   const [data, setData] = useState<Data | null>(null),
     [error, setError] = useState(false),
     [q, setQ] = useState(""),
@@ -193,7 +198,10 @@ export default function Home() {
     [garage, setGarage] = useState(false),
     [sort, setSort] = useState("evidence"),
     [view, setView] = useState("matches"),
-    [saved, setSaved] = useState<string[]>([]),
+    [tracking, setTracking] = useState<Record<string, ApartmentTracking>>({}),
+    [trackerStatus, setTrackerStatus] = useState("Loading tracker…"),
+    [trackerReady, setTrackerReady] = useState(false),
+    [saving, setSaving] = useState(false),
     [selected, setSelected] = useState<Listing | null>(null),
     [missingListing, setMissingListing] = useState(false),
     [copyStatus, setCopyStatus] = useState<"idle" | "copied" | "failed">(
@@ -212,18 +220,21 @@ export default function Home() {
       setAc(listState.ac);
       setGarage(listState.garage);
       setSort(listState.sort);
-      setView(listState.view);
+      setView(listState.view === "saved" ? "matches" : listState.view);
     }
-    fetch("/data/listings.json")
+    fetch("/api/listings")
       .then((r) => {
         if (!r.ok) throw Error();
         return r.json();
       })
       .then((value) => setData(value as Data))
       .catch(() => setError(true));
-    try {
-      setSaved(JSON.parse(localStorage.getItem("covilha-saved") || "[]"));
-    } catch {}
+    void loadTracking();
+    const refresh = () => { if (document.visibilityState === "visible") void loadTracking(); };
+    window.addEventListener("focus", refresh);
+    document.addEventListener("visibilitychange", refresh);
+    const timer = window.setInterval(refresh, 30000);
+    return () => { window.removeEventListener("focus", refresh); document.removeEventListener("visibilitychange", refresh); window.clearInterval(timer); };
   }, []);
   useEffect(() => {
     if (!data) return;
@@ -243,12 +254,43 @@ export default function Home() {
     window.addEventListener("popstate", syncDetailsRoute);
     return () => window.removeEventListener("popstate", syncDetailsRoute);
   }, [data]);
-  function toggleSave(id: string) {
-    const next = saved.includes(id)
-      ? saved.filter((x) => x !== id)
-      : [...saved, id];
-    setSaved(next);
-    localStorage.setItem("covilha-saved", JSON.stringify(next));
+  async function loadTracking() {
+    if (savingRef.current) return;
+    const revision = trackerRevision.current;
+    try {
+      const response = await fetch("/api/tracking", { cache: "no-store" });
+      const value = await response.json() as { tracking: Record<string, ApartmentTracking>; error?: string };
+      if (revision !== trackerRevision.current) return;
+      if (!response.ok) throw new Error(value.error || "Could not load tracking data");
+      setTracking(value.tracking);
+      setTrackerReady(true);
+      setTrackerStatus("Shared tracker synced");
+    } catch (error) {
+      if (revision !== trackerRevision.current) return;
+      setTrackerReady(false);
+      setTrackerStatus(error instanceof Error ? error.message : "Could not load tracking data");
+    }
+  }
+  async function updateTracking(id: string, patch: Partial<ApartmentTracking>) {
+    if (!trackerReady || savingRef.current) return false;
+    savingRef.current = true;
+    trackerRevision.current++;
+    setSaving(true);
+    setTrackerStatus("Saving…");
+    try {
+      const response = await fetch("/api/tracking", {
+        method: "PATCH", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, patch }),
+      });
+      const result = await response.json() as { error?: string };
+      if (!response.ok) throw new Error(result.error || "Could not save tracking data");
+      setTracking(current => ({ ...current, [id]: { ...emptyTracking, ...current[id], ...patch } }));
+      setTrackerStatus("Shared tracker synced");
+      return true;
+    } catch (error) {
+      setTrackerStatus(error instanceof Error ? error.message : "Could not save; try again");
+      return false;
+    } finally { trackerRevision.current++; savingRef.current = false; setSaving(false); }
   }
   function open(l: Listing) {
     // Keep the mounted list and its filters while giving details a real URL.
@@ -301,13 +343,15 @@ export default function Home() {
     galleryScrollRef.current?.scrollTo({ top: 0 });
   }
   const listings = data?.listings || [];
-  const matches = listings.filter((l) => l.status === "match");
+  const activeListings = listings.filter(l => !tracking[l.id]?.removed);
+  const matches = activeListings.filter((l) => l.status === "match");
   const towns = Array.from(new Set(listings.map((l) => l.town))).sort();
   const filtered = listings
     .filter(
       (l) =>
-        (view === "all" ||
-          (view === "saved" && saved.includes(l.id)) ||
+        (view === "removed" ? !!tracking[l.id]?.removed : !tracking[l.id]?.removed) &&
+        (view === "all" || view === "removed" ||
+          (view === "contacted" && tracking[l.id]?.contacted) ||
           (view === "matches" && l.status === "match") ||
           (view === "review" && l.status === "review")) &&
         l.price <= budget &&
@@ -487,6 +531,10 @@ export default function Home() {
           </div>
         </aside>
         <main className="results">
+          <div className="tracker-sync" role="status">
+            <span>{trackerStatus}</span>
+            <button onClick={() => void loadTracking()} disabled={saving}>Refresh tracker</button>
+          </div>
           <div className="results-tabs">
             <div role="tablist" aria-label="Listing status">
               {[
@@ -494,10 +542,11 @@ export default function Home() {
                 [
                   "review",
                   "Needs review",
-                  listings.filter((l) => l.status === "review").length,
+                  activeListings.filter((l) => l.status === "review").length,
                 ],
-                ["all", "All screened", listings.length],
-                ["saved", "Saved", saved.length],
+                ["all", "All screened", activeListings.length],
+                ["contacted", "Contacted", activeListings.filter(l => tracking[l.id]?.contacted).length],
+                ["removed", "Removed", listings.length - activeListings.length],
               ].map(([key, label, count]) => (
                 <button
                   key={key}
@@ -519,8 +568,9 @@ export default function Home() {
                 ? "matching apartments"
                 : view === "review"
                   ? "listings to verify"
-                  : view === "saved"
-                    ? "saved listings"
+                  : view === "contacted"
+                    ? "contacted apartments"
+                    : view === "removed" ? "removed apartments"
                     : "screened listings"}
               <span>
                 {" "}
@@ -563,19 +613,10 @@ export default function Home() {
                   <article className="listing-card" key={l.id}>
                     <div className="photo-wrap">
                       <PhotoView l={l} onOpen={() => open(l)} />
-                      <button
-                        className={saved.includes(l.id) ? "save saved" : "save"}
-                        onClick={() => toggleSave(l.id)}
-                        aria-label={
-                          saved.includes(l.id)
-                            ? "Remove from saved"
-                            : "Save apartment"
-                        }
-                      >
-                        <Heart
-                          size={17}
-                          fill={saved.includes(l.id) ? "currentColor" : "none"}
-                        />
+                      <button className="save" disabled={!trackerReady || saving}
+                        onClick={() => void updateTracking(l.id, { removed: !tracking[l.id]?.removed })}
+                        aria-label={tracking[l.id]?.removed ? "Restore apartment" : "Remove apartment"}>
+                        <Trash2 size={17} />
                       </button>
                     </div>
                     <div className="card-body">
@@ -619,6 +660,11 @@ export default function Home() {
                               ? "Garage included"
                               : l.garage}
                         </span>
+                      </div>
+                      <div className="card-tracking">
+                        <label><input type="checkbox" checked={tracking[l.id]?.contacted ?? false} disabled={!trackerReady || saving} onChange={e => void updateTracking(l.id, { contacted: e.target.checked })} /> Contacted</label>
+                        {tracking[l.id]?.visitAt && <span>Visit: {tracking[l.id].visitAt.replace("T", " · ")}</span>}
+                        {tracking[l.id]?.notes && <span className="card-notes">{tracking[l.id].notes}</span>}
                       </div>
                       <AC l={l} />
                       <div
@@ -821,6 +867,8 @@ export default function Home() {
                     <MapPin size={14} />
                     {selected.address}
                   </p>
+                  <div className="tracker-sync" role="status">{trackerStatus}</div>
+                  <TrackingFields key={selected.id} value={tracking[selected.id] ?? emptyTracking} disabled={!trackerReady || saving} onChange={patch => updateTracking(selected.id, patch)} />
                   <AC l={selected} />
                   <dl>
                     <div>

@@ -1348,3 +1348,16 @@ input[type="range"] {
 :root {
   color-scheme: light;
 }
+
+.tracker-sync { display:flex; flex-wrap:wrap; align-items:center; gap:12px; font-size:12px; color:var(--muted-foreground); margin-bottom:14px; }
+.tracker-sync a, .tracker-sync button { text-decoration:underline; cursor:pointer; }
+.tracking-fields { margin:18px 0; padding:16px; border:1px solid var(--border); border-radius:8px; }
+.tracking-fields h3 { margin:0 0 12px; }
+.tracking-fields label { display:flex; flex-direction:column; gap:6px; font-size:13px; margin-bottom:12px; }
+.tracking-fields .tracking-contact { flex-direction:row; align-items:center; gap:8px; }
+.tracking-fields textarea { width:100%; padding:10px; background:var(--background); border:1px solid var(--border); border-radius:6px; resize:vertical; }
+.tracking-actions { display:flex; gap:8px; flex-wrap:wrap; }
+.card-tracking { display:flex; flex-wrap:wrap; gap:8px 14px; margin:12px 0; font-size:12px; }
+.card-tracking label { display:flex; align-items:center; gap:6px; }
+.card-notes { width:100%; white-space:pre-wrap; max-height:3em; overflow:hidden; color:var(--muted-foreground); }
+.save:disabled { opacity:.5; cursor:not-allowed; }

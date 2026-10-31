@@ -38,3 +38,11 @@ Each listing has a `/listings/<listing-id>` URL and a Copy link button. Direct l
 ## Deployment
 
 The existing Sites project is declared in `.openai/hosting.json`. Deploy only when explicitly requested. The Sites source mirror and this GitHub repository contain the same application commit after publication.
+
+## Shared tracking (Turso)
+
+The tracker is one shared set of records, editable and readable by anyone with the site link. `app/api/tracking/route.ts` keeps Turso access server-side. Records are keyed by stable listing ID and survive daily listing imports. Removal hides a listing from active tabs; the Removed tab can restore it. Visits and notes use Save visit & notes; contact changes save immediately. Other devices refresh when focused and every 30 seconds.
+
+Local secrets: `TURSO_DATABASE_URL` and `TURSO_AUTH_TOKEN` in ignored `.env.local` (setup script) and `.dev.vars` (Cloudflare preview). Initialize with `node --env-file=.env.local scripts/setup-tracking-db.mjs`. Configure the same names as hosted Sites runtime secrets before deploying. Never commit credentials, personal tracking data, or `.env.local`.
+
+Daily search instructions: [docs/daily-search.md](docs/daily-search.md). `/api/listings` reads the latest GitHub main dataset in production, so scheduled data updates do not require redeploying the app. Local preview reads the local dataset. Search/classification runs locally with MLX; the Mac must be available.
