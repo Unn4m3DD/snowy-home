@@ -534,10 +534,9 @@ export default function Home() {
           </div>
         </aside>
         <main className="results">
-          <div className="tracker-sync" role="status">
-            <span>{trackerStatus}</span>
-            <button onClick={() => void loadTracking()} disabled={saving}>Refresh tracker</button>
-          </div>
+          {!["Loading tracker…", "Saving…", "Shared tracker synced"].includes(trackerStatus) && (
+            <p className="tracker-sync" role="alert">{trackerStatus}</p>
+          )}
           <div className="results-tabs">
             <div role="tablist" aria-label="Listing status">
               {[
@@ -871,7 +870,9 @@ export default function Home() {
                     <MapPin size={14} />
                     {selected.address}
                   </p>
-                  <div className="tracker-sync" role="status">{trackerStatus}</div>
+                  {!["Loading tracker…", "Saving…", "Shared tracker synced"].includes(trackerStatus) && (
+                    <p className="tracker-sync" role="alert">{trackerStatus}</p>
+                  )}
                   <TrackingFields key={selected.id} needsReview={listingStatus(selected) === "review"} value={tracking[selected.id] ?? emptyTracking} disabled={!trackerReady || saving} onChange={patch => updateTracking(selected.id, patch)} />
                   <AC l={selected} />
                   <dl>

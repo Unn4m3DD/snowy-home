@@ -1350,7 +1350,6 @@ input[type="range"] {
 }
 
 .tracker-sync { display:flex; flex-wrap:wrap; align-items:center; gap:12px; font-size:12px; color:var(--muted-foreground); margin-bottom:14px; }
-.tracker-sync a, .tracker-sync button { text-decoration:underline; cursor:pointer; }
 .tracking-fields { margin:18px 0; padding:16px; border:1px solid var(--border); border-radius:8px; }
 .tracking-fields h3 { margin:0 0 12px; }
 .tracking-fields label { display:flex; flex-direction:column; gap:6px; font-size:13px; margin-bottom:12px; }
