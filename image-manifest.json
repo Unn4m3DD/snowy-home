@@ -12163,29 +12163,29 @@
     {
       "listingId": "idealista-35450604",
       "index": 1,
-      "path": "images/idealista-35450604/01.jpg",
-      "width": 383,
-      "height": 850,
-      "sha256": "4f1827d49c856ba2515570267cc7d0a0951e3cd200c14dd2332102323dd43e9e",
-      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL_TOP-L-P/0/id.pro.pt.image.master/9e/d6/96/333877146.jpg"
+      "path": "images/idealista-35450604/01-full.jpg",
+      "width": 675,
+      "height": 1500,
+      "sha256": "978dfd7d13868190eefa0867d9afba9f5e99e4fa4ad0f754973cb43c2488378a",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/9e/d6/96/333877146.jpg"
     },
     {
       "listingId": "idealista-35415997",
       "index": 1,
-      "path": "images/idealista-35415997/01.jpg",
-      "width": 850,
-      "height": 638,
-      "sha256": "746334ad0010ef46365c8c5cb8b658265ad1d9aabfd2a31a0f24abb00a79617e",
-      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL_TOP-L-L/0/id.pro.pt.image.master/61/9f/03/332029412.jpg"
+      "path": "images/idealista-35415997/01-full.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "77e2289f0e66d4f2b6602a979fa010a521559bcbde8a91c343c3b5b5665cc72f",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/61/9f/03/332029412.jpg"
     },
     {
       "listingId": "idealista-35239105",
       "index": 1,
-      "path": "images/idealista-35239105/01.jpg",
-      "width": 850,
-      "height": 638,
-      "sha256": "904bb7ceb78bec52d9e06ad57c243718210b092848dee5492833605c21afec1e",
-      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL_TOP-L-L/0/id.pro.pt.image.master/a5/40/21/325574664.jpg"
+      "path": "images/idealista-35239105/01-full.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "5a0805402b432634e998743645d67d8d96814fd73be95ebc78bfe33de0d98395",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/a5/40/21/325574664.jpg"
     },
     {
       "listingId": "bquarto-306898582",
