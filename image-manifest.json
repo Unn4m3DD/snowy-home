@@ -12267,6 +12267,348 @@
       "height": 561,
       "sha256": "fbf4717c2b3090e39f95ec2ff125e3874a433ca824f7486fb41a899153127c29",
       "sourceUrl": "https://www.bquarto.pt/fotos/157957402fRL.jpg"
+    },
+    {
+      "listingId": "idealista-35450604",
+      "index": 2,
+      "path": "images/idealista-35450604/02.jpg",
+      "width": 1500,
+      "height": 675,
+      "sha256": "376df256d16c0ee7cb511d3ba8bd7aa3e48820affc41f4874ddf1bf4a30c822b",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/e3/14/cc/333877259.jpg"
+    },
+    {
+      "listingId": "idealista-35450604",
+      "index": 3,
+      "path": "images/idealista-35450604/03.jpg",
+      "width": 675,
+      "height": 1500,
+      "sha256": "55604ea49ad43cb544b7d4865142fe3037486a4433454edf79574d0fe7fc8f45",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/6e/2a/9a/333877269.jpg"
+    },
+    {
+      "listingId": "idealista-35450604",
+      "index": 4,
+      "path": "images/idealista-35450604/04.jpg",
+      "width": 675,
+      "height": 1500,
+      "sha256": "45936059183eecafcd157cdaebdbb7c4987d6f4b6057c1f196f95b00a383df05",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/c0/4c/2e/333877270.jpg"
+    },
+    {
+      "listingId": "idealista-35450604",
+      "index": 5,
+      "path": "images/idealista-35450604/05.jpg",
+      "width": 1500,
+      "height": 675,
+      "sha256": "2d7d0ace151c0f6f28f2e54d592667c797e90ffbeaa10565dbea141b6a999e3f",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/9f/2c/54/333877271.jpg"
+    },
+    {
+      "listingId": "idealista-35450604",
+      "index": 6,
+      "path": "images/idealista-35450604/06.jpg",
+      "width": 675,
+      "height": 1500,
+      "sha256": "45c3990c693fc628c649790051fffb20f81097fdfadcef3a1c3937757c96b241",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/df/7c/8a/333877326.jpg"
+    },
+    {
+      "listingId": "idealista-35450604",
+      "index": 7,
+      "path": "images/idealista-35450604/07.jpg",
+      "width": 675,
+      "height": 1500,
+      "sha256": "1b2ec6b2685b2b5581022a8c98e0a7a02ee816cde0f3fa56a63ba2a5c77385c9",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/4c/56/95/333877409.jpg"
+    },
+    {
+      "listingId": "idealista-35450604",
+      "index": 8,
+      "path": "images/idealista-35450604/08.jpg",
+      "width": 1500,
+      "height": 675,
+      "sha256": "203dd3ae1ca3e124437ec626bfcf8671635c16414129c4e5edfbff475e9621c4",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/f8/fc/15/333877421.jpg"
+    },
+    {
+      "listingId": "idealista-35450604",
+      "index": 9,
+      "path": "images/idealista-35450604/09.jpg",
+      "width": 1500,
+      "height": 675,
+      "sha256": "dbe9a61720d5476a78a07a6d2d5ad6ba421d2e537330e18aff14ca8faf3d55d3",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/73/76/57/333877437.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 2,
+      "path": "images/idealista-35415997/02.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "e026ff6048eb67a9712ccc9ee3394c7c87b5a7aa0e19ab35472ea89ed42fb413",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/ca/d5/90/332029386.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 3,
+      "path": "images/idealista-35415997/03.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "500a33fc87c48d33557ccb5503af42a1cab694d0543be1efab46264c67d68357",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/bb/5f/eb/332029437.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 4,
+      "path": "images/idealista-35415997/04.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "41cf95157f656860c0538c4319583b3504889f88106dba00c11afdaf02aacdef",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/b5/a8/b9/332029435.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 5,
+      "path": "images/idealista-35415997/05.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "121ff694864d74c27d5cfa27305bc55127289008477e768f791f6481c4b4ca98",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/19/3c/d5/332029438.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 6,
+      "path": "images/idealista-35415997/06.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "b79804fe98141bf7d5ef5220a0a50abf89ae6678c5f4afdaec1bcdecab38254d",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/f7/96/44/332029439.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 7,
+      "path": "images/idealista-35415997/07.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "0b62cbf76f6aba2d3a8cb67fe7631389362ab106fe98d1ed91862cd2c1b842d4",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/c6/45/1f/332029440.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 8,
+      "path": "images/idealista-35415997/08.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "da7e3f19694adfbc7d2db15a880f1684e22e1abda02c4ae789dd4bd525bb6bc6",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/cb/f0/68/332029436.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 9,
+      "path": "images/idealista-35415997/09.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "9e51864be632be3530943bf2edbdb97cc1b2abffc6fd45571793499e0ed69e9a",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/45/87/08/332029293.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 10,
+      "path": "images/idealista-35415997/10.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "44e358d24c433e576eda5958f59648fcbb53bccb7b3429c649348d0b8b14a7ef",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/4a/27/c9/332029468.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 11,
+      "path": "images/idealista-35415997/11.jpg",
+      "width": 1125,
+      "height": 1500,
+      "sha256": "fd6f8ef18bd9309c389f12e30ab1a162d02d0c35758a64b841574b8f1143a845",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/3e/10/fd/332029507.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 12,
+      "path": "images/idealista-35415997/12.jpg",
+      "width": 1125,
+      "height": 1500,
+      "sha256": "dfda3c722fa41586563405b2bd368223afc6caa079183cb109e535dccdaddb6a",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/32/20/05/332029514.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 13,
+      "path": "images/idealista-35415997/13.jpg",
+      "width": 1125,
+      "height": 1500,
+      "sha256": "b8fee1aaca1e9c1746bfbe0997c42e403823c751cd2038bb548a8297cd5886ed",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/a4/e4/d5/332029515.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 14,
+      "path": "images/idealista-35415997/14.jpg",
+      "width": 1125,
+      "height": 1500,
+      "sha256": "fbc061d55881093b7f28799649d4221cfd31a7d51cde0aba6f7ebb568bc1df05",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/72/16/20/332029473.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 15,
+      "path": "images/idealista-35415997/15.jpg",
+      "width": 1125,
+      "height": 1500,
+      "sha256": "2adfa61a70cb4e8ae646266f2c038c10966d6e0d197068c44af632ee453c5826",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/a5/b2/96/332029516.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 16,
+      "path": "images/idealista-35415997/16.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "f6280d2078a2fffdce296dad95af56ca521d4849d7ded594b69218998068d13e",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/20/b8/9b/332029461.jpg"
+    },
+    {
+      "listingId": "idealista-35415997",
+      "index": 17,
+      "path": "images/idealista-35415997/17.jpg",
+      "width": 1125,
+      "height": 1500,
+      "sha256": "26adc5b2694d31168af54ea170edcf5b991a272a98c781e67033f66435620cea",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/0b/0e/2a/332029517.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 2,
+      "path": "images/idealista-35239105/02.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "72cf234cb263e7de520a41926cb05bb05b2494608de9521a13bdd123a587c1c9",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/f3/b3/4c/326093198.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 3,
+      "path": "images/idealista-35239105/03.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "fbf452ddf956fcd59d982a3c41d0a0b0dd4e4f85d6b698980aa59d30364f51ef",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/7c/22/47/326065931.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 4,
+      "path": "images/idealista-35239105/04.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "7d1e5c2db1b2ef59955223eab8f67214c1e281c9334308c7d23daecb9fd33a3e",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/5d/c6/23/326065933.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 5,
+      "path": "images/idealista-35239105/05.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "eb793e3032300b852f64c684c1c626f447be2f6d03aa800bb7c4d26d3d00c15c",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/fd/e5/4a/326065715.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 6,
+      "path": "images/idealista-35239105/06.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "8e717c5f64c18de86508239412d5e085054d5cd72d97b5e6aa5cae0f77c0a8aa",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/48/fa/88/326065967.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 7,
+      "path": "images/idealista-35239105/07.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "24703eb6bb0eda2853eb394d5ff89ca01faa4883c3d8302fb33a0902577e236e",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/a1/af/b1/325575106.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 8,
+      "path": "images/idealista-35239105/08.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "70f93b0d034d47a079e9739263f8c73101711323799ab0cb19a4009e3a4bfb0e",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/77/c2/55/326065924.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 9,
+      "path": "images/idealista-35239105/09.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "90ddb6d69dee7ee7eeff3545e4222f6d29033f9d01094b4c41db3b6e0dc83932",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/76/06/8a/326065969.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 10,
+      "path": "images/idealista-35239105/10.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "246c6b690b6ea00114caa025e7725bbe141c6b91e65f4b9aaae0d661a81838ea",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/53/02/89/326065970.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 11,
+      "path": "images/idealista-35239105/11.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "8841a8393ed027c88236ff0092b1b5cbbc5dc738c2bfe235dacdcefdb0f92a3f",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/07/ca/49/326065961.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 12,
+      "path": "images/idealista-35239105/12.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "818c98232d10c2bc53b25222e3fc9b31321b89521e968b455559cd0164435321",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/66/3f/12/326065972.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 13,
+      "path": "images/idealista-35239105/13.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "b0f85a9fcc63b61ee865759b350a83af4ae87c2b9c75c109627e4f544982af10",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/17/c6/ce/326065926.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 14,
+      "path": "images/idealista-35239105/14.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "0971546627be91fe5b4f649a77117c2e36b41c39a775195d7c61d7ffd570b4e9",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/12/d6/3d/328036369.jpg"
+    },
+    {
+      "listingId": "idealista-35239105",
+      "index": 15,
+      "path": "images/idealista-35239105/15.jpg",
+      "width": 1500,
+      "height": 1125,
+      "sha256": "f14c33c2108b3c92f1347aa2763abdd67a2730dc1382f8735da64367e5b3b198",
+      "sourceUrl": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/b7/c2/43/328036441.jpg"
     }
   ]
 }
