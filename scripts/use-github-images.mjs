@@ -1,6 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { validateListingEvidence } from "./validate-listings.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const [repository, revision] = process.argv.slice(2);
@@ -15,6 +16,7 @@ const manifest = await response.json();
 const originals = new Map(manifest.photos.map((photo) => [`${photo.listingId}/${photo.index}`, photo]));
 const dataPath = path.join(root, "public/data/listings.json");
 const data = JSON.parse(await fs.readFile(dataPath, "utf8"));
+validateListingEvidence(data);
 let count = 0;
 for (const listing of data.listings) {
   for (const photo of listing.photos) {
