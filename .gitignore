@@ -34,6 +34,7 @@ yarn-error.log*
 # Checkout-local tool state
 /.wrangler/
 /.sites-runtime/
+/.daily-search/
 
 # Workspace scaffolding and publication archives
 /.agents/
