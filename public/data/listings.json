@@ -1,8 +1,8 @@
 {
-  "checked": "8 Nov 2026",
+  "checked": "10 Nov 2026",
   "model": "Qwen3-VL-4B-Instruct (4-bit), running locally with MLX.",
-  "screened": 164,
-  "photoCount": 2177,
+  "screened": 166,
+  "photoCount": 2223,
   "listings": [
     {
       "requiresApproval": false,
@@ -10634,6 +10634,286 @@
       "updated": "",
       "checked": "8 Nov 2026",
       "analysedPhotos": 12
+    },
+    {
+      "requiresApproval": true,
+      "evidenceStatus": "review",
+      "id": "prummo-g00044",
+      "title": "Apartamento T1 — Rua Conselheiro Dr António Pedroso dos Santos, 5",
+      "price": 415,
+      "bedrooms": 1,
+      "typology": "T1",
+      "area": "50",
+      "address": "Rua Conselheiro Dr António Pedroso dos Santos, 5, Covilhã",
+      "town": "Covilhã",
+      "source": "PRUMMO",
+      "url": "https://www.prummo.pt/imoveis/show.aspx?idcont=3798",
+      "otherUrls": [
+        {
+          "source": "Idealista",
+          "url": "https://www.idealista.pt/imovel/35471738/"
+        }
+      ],
+      "agency": "Grupo PRUMMO",
+      "garage": "Unknown",
+      "floor": "Unknown floor · no lift",
+      "furnished": "Yes",
+      "available": "December unconfirmed",
+      "conditions": [
+        "Two months deposit (€830). Last three payslips or latest IRS required.",
+        "Advertised available immediately; December unconfirmed.",
+        "Proof of income required."
+      ],
+      "notes": [
+        "AC unconfirmed for this apartment: street photo14 shows outdoor condensers, but no indoor AC is visible and the ad makes no AC claim. The condensers may serve shops or neighbouring units. Confirm with the owner before approving.",
+        "Multiple ads use the same photos. All source links are retained; confirm they refer to the same available unit."
+      ],
+      "acTag": false,
+      "acText": false,
+      "acQuote": "",
+      "photoAc": "possible",
+      "roomCheck": true,
+      "roomEvidence": "Source photo 1: bedroom. Source photo 2: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
+      "photos": [
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/01.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/01.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/6abaa363-4196-4593-b070-a6236f18a4a5.jpg",
+          "index": 1,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "modern bedroom with bed and desk",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/02.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/02.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/b08fc539-c292-47f9-8f1f-077ebb26d087.jpg",
+          "index": 2,
+          "ac": "no",
+          "room": "living room",
+          "description": "modern living room with kitchen",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/03.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/03.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/34a0f863-17cb-4b76-b9af-ffcd9a339f0d.jpg",
+          "index": 3,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "modern kitchen with appliances",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/04.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/04.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/dca1349c-953a-4cf8-b013-0870a038f73e.jpg",
+          "index": 4,
+          "ac": "no",
+          "room": "living room",
+          "description": "modern minimalist living space",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/05.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/05.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/53974bc0-8b0f-4a3f-be2f-6f30bbd68e45.jpg",
+          "index": 5,
+          "ac": "no",
+          "room": "living room",
+          "description": "modern living room with sofa and bed",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/06.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/06.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/c8725473-fc55-4292-b1c4-acc334c9d123.jpg",
+          "index": 6,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "modern bedroom with bed and desk",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/07.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/07.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/134deb39-93f4-4daf-962f-53513411f044.jpg",
+          "index": 7,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "Minimalist bedroom with bed and wardrobe",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/08.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/08.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/847e5709-4862-40c8-a7a0-a9f99b3939f1.jpg",
+          "index": 8,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "Minimalist bedroom with bed and wardrobe",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/09.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/09.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/86d15b60-2969-4b6f-8ebe-a1e026673b17.jpg",
+          "index": 9,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "Minimalist bedroom with bed and sink",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/10.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/10.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/2b2156cf-b9cd-42ab-88f7-9ce21ffe1cf5.jpg",
+          "index": 10,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "Minimalist bedroom with blue bedding",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/11.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/11.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/4b5a709d-5a5f-414a-a1cf-8e7f959800e8.jpg",
+          "index": 11,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "Minimalist bedroom with bed and lamp",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/12.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/12.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/a8e35aed-31bc-4b13-bead-27ee7dd59aa4.jpg",
+          "index": 12,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "modern white bathroom",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/13.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/13.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/11905e74-b83b-4723-b5a2-8697628db691.jpg",
+          "index": 13,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "modern bathroom sink and mirror",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/14.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/14.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/65aec918-74d1-4f5c-880c-e17ca77ce7f8.jpg",
+          "index": 14,
+          "ac": "possible",
+          "room": "exterior",
+          "description": "side of building exterior",
+          "acLocation": "Outdoor AC condensers visible on buildings in street view. Cannot establish they serve this apartment; may serve commercial premises or neighbouring units."
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/15.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/15.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/241ecfd3-01e5-4b8e-95d0-149eed8a2073.jpg",
+          "index": 15,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/16.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/16.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/c767ad9d-d1eb-4c84-bbf4-413d76587a5d.jpg",
+          "index": 16,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/17.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/17.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/c8835457-e9f2-4a76-a7f8-3b0a7cdf5bc0.jpg",
+          "index": 17,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/18.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/18.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/4ada810a-ada7-459d-afdc-53952eab1c96.jpg",
+          "index": 18,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/19.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/19.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/492f2376-1c85-4ab1-b0d8-e7da3f4c197e.jpg",
+          "index": 19,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/20.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/20.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/8d6684e9-e21d-4a38-a79e-11274b682692.jpg",
+          "index": 20,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/21.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/21.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/a4cdaac1-8b87-4d90-8ea7-1f445ad2f121.jpg",
+          "index": 21,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/22.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/22.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/60212182-1cb5-4232-848c-088a1fc005a9.jpg",
+          "index": 22,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/23.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/images/prummo-g00044/23.jpg",
+          "sourceOriginal": "https://mediaprummo.ximo.pt/imoveis/3798/a0a2b54b-3575-4e77-aa6f-29f7701e0e5e.jpg",
+          "index": 23,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        }
+      ],
+      "minutes": 6,
+      "km": 3.6,
+      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Source gives street and number5. OSM street reference; exact doorway, traffic and parking not verified. OSRM estimate; excludes live traffic, parking and walking to your department.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2787542,-7.5076231&destination=40.2658607,-7.4934001&travelmode=driving",
+      "status": "review",
+      "updated": "",
+      "checked": "10 Nov 2026",
+      "analysedPhotos": 23
     }
   ],
   "coverage": [
@@ -10685,10 +10965,10 @@
   ],
   "imageHost": {
     "repository": "Unn4m3DD/snowy-home",
-    "revision": "8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf",
+    "revision": "07aede3125a9e1a80714e67dbf720c62d29696ce",
     "branch": "images",
-    "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/",
-    "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/image-manifest.json",
-    "photoCount": 829
+    "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/",
+    "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/07aede3125a9e1a80714e67dbf720c62d29696ce/image-manifest.json",
+    "photoCount": 852
   }
 }
