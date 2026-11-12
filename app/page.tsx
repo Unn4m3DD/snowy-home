@@ -357,7 +357,7 @@ export default function Home() {
     .filter(
       (l) =>
         (view === "removed" ? !!tracking[l.id]?.removed : !tracking[l.id]?.removed) &&
-        (view === "all" || view === "removed" || view === "calendar" ||
+        (view === "all" || view === "removed" ||
           (view === "contacted" && tracking[l.id]?.contacted) ||
           (view === "matches" && listingStatus(l) === "match") ||
           (view === "review" && listingStatus(l) === "review")) &&
@@ -443,8 +443,8 @@ export default function Home() {
           <small>Rent from 1 Dec · January starts also tracked</small>
         </div>
       </section>
-      <div className="workspace">
-        <aside className={filters ? "filters open" : "filters"}>
+      <div className={view === "calendar" ? "workspace calendar-workspace" : "workspace"}>
+        {view !== "calendar" && <aside className={filters ? "filters open" : "filters"}>
           <div className="filter-title">
             <SlidersHorizontal size={15} />
             <strong>Filters</strong>
@@ -536,7 +536,7 @@ export default function Home() {
               </button>
             </p>
           </div>
-        </aside>
+        </aside>}
         <main className="results">
           {!["Loading tracker…", "Saving…", "Shared tracker synced"].includes(trackerStatus) && (
             <p className="tracker-sync" role="alert">{trackerStatus}</p>
@@ -593,7 +593,7 @@ export default function Home() {
                 </>
               )}
             </p>
-            <div>
+            {view !== "calendar" && <div>
               <button
                 className="mobile-filter"
                 onClick={() => setFilters(!filters)}
@@ -601,7 +601,6 @@ export default function Home() {
                 <SlidersHorizontal size={15} />
                 Filters
               </button>
-              {view !== "calendar" && (
                 <select
                   aria-label="Sort listings"
                   value={sort}
@@ -612,8 +611,7 @@ export default function Home() {
                   <option value="commute">Shortest drive first</option>
                   <option value="space">Largest first</option>
                 </select>
-              )}
-            </div>
+            </div>}
           </div>
           {!data ? (
             <div className="empty">
@@ -623,7 +621,7 @@ export default function Home() {
             </div>
           ) : view === "calendar" ? (
             <RentalCalendar
-              listings={filtered}
+              listings={activeListings}
               tracking={tracking}
               trackerReady={trackerReady}
               onOpen={open}

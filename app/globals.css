@@ -464,58 +464,25 @@ input[type="range"] {
   gap: 10px;
   align-items: center;
 }
-.rental-calendar {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 18px;
+.workspace.calendar-workspace {
+  grid-template-columns: 1fr;
 }
-.rental-calendar-grid,
+.rental-calendar {
+  display: grid;
+  gap: 12px;
+}
 .rental-calendar-agenda {
+  margin: 0;
   min-width: 0;
+  padding: 16px;
   border: 1px solid #dce3e6;
   border-radius: 9px;
   background: #fff;
 }
-.rental-calendar-grid {
-  flex: 1 1 300px;
-  max-width: 380px;
-  padding: 12px;
-}
-.rental-calendar-grid .rental-month {
-  width: 100%;
-  padding: 0;
-  --cell-size: 2rem;
-}
-.rental-month .rdp-day:not(.rdp-hidden) button {
-  background: #eaf3ed;
-  color: #245b52;
-  font-weight: 600;
-}
-.rental-month .rdp-day button[data-selected-single="true"] {
-  background: #245b52;
-  color: #fff;
-}
-.rental-calendar-agenda {
-  flex: 2 1 300px;
-  padding: 16px;
-}
-.rental-agenda-heading {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-  min-height: 32px;
-}
-.rental-agenda-heading h2 {
+.rental-calendar-agenda h2 {
   margin: 0;
   font-size: 15px;
   font-weight: 600;
-}
-.rental-calendar-agenda p {
-  margin: 8px 0 0;
-  font-size: 12px;
-  color: #566b74;
 }
 .rental-agenda-list {
   margin: 8px 0 0;
