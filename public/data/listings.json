@@ -1,8 +1,8 @@
 {
   "checked": "12 Nov 2026",
   "model": "Qwen3-VL-4B-Instruct (4-bit), running locally with MLX.",
-  "screened": 192,
-  "photoCount": 2647,
+  "screened": 193,
+  "photoCount": 2664,
   "listings": [
     {
       "requiresApproval": false,
@@ -12331,6 +12331,218 @@
       "updated": "",
       "checked": "12 Nov 2026",
       "analysedPhotos": 17
+    },
+    {
+      "requiresApproval": true,
+      "evidenceStatus": "review",
+      "id": "direct-imobiclara-serra-shopping-t1",
+      "title": "T1 mobilado junto ao Serra Shopping",
+      "price": 750,
+      "bedrooms": 1,
+      "typology": "T1",
+      "area": "65",
+      "address": "Zona Nova, near Serra Shopping",
+      "town": "Covilhã",
+      "source": "Imobiclara website",
+      "url": "https://www.imobiclara.pt/",
+      "otherUrls": [],
+      "agency": "Imobiclara",
+      "garage": "One parking space included",
+      "floor": "Unknown floor",
+      "furnished": "Yes",
+      "available": "December unconfirmed",
+      "conditions": [],
+      "notes": [
+        "The agency shared this offer directly. The source link opens its homepage.",
+        "Area is approximate. Covered parking and December availability are unconfirmed.",
+        "Photo 1 shows a differently furnished living room. Confirm it belongs to this apartment."
+      ],
+      "acTag": false,
+      "acText": true,
+      "acQuote": "ar condicionado",
+      "photoAc": "yes",
+      "roomCheck": true,
+      "roomEvidence": "Photo 3 shows a separate bedroom and photo 16 shows the living room. Both show split AC above the doorway.",
+      "photos": [
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/01.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/01.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/01.jpg",
+          "index": 1,
+          "ac": "no",
+          "room": "other",
+          "description": "Living room, unit unconfirmed",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/02.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/02.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/02.jpg",
+          "index": 2,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "small bathroom with washer and shower",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/03.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/03.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/03.jpg",
+          "index": 3,
+          "ac": "yes",
+          "room": "bedroom",
+          "description": "minimalist bedroom with white furniture",
+          "acLocation": "wall-mounted AC unit above doorway"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/04.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/04.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/04.jpg",
+          "index": 4,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "minimalist bedroom with balcony access",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/05.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/05.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/05.jpg",
+          "index": 5,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "minimalist bedroom with view",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/06.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/06.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/06.jpg",
+          "index": 6,
+          "ac": "yes",
+          "room": "bedroom",
+          "description": "minimalist white bedroom",
+          "acLocation": "wall-mounted unit above doorway"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/07.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/07.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/07.jpg",
+          "index": 7,
+          "ac": "yes",
+          "room": "bedroom",
+          "description": "minimalist bedroom with white furniture",
+          "acLocation": "wall-mounted indoor unit above doorway"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/08.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/08.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/08.jpg",
+          "index": 8,
+          "ac": "no",
+          "room": "exterior",
+          "description": "balcony with yellow wall",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/09.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/09.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/09.jpg",
+          "index": 9,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "modern kitchen with appliances",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/10.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/10.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/10.jpg",
+          "index": 10,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "modern kitchen with appliances",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/11.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/11.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/11.jpg",
+          "index": 11,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "modern kitchen with appliances",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/12.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/12.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/12.jpg",
+          "index": 12,
+          "ac": "no",
+          "room": "hall",
+          "description": "hallway with cabinets and shower",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/13.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/13.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/13.jpg",
+          "index": 13,
+          "ac": "no",
+          "room": "hall",
+          "description": "white door and cabinets",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/14.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/14.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/14.jpg",
+          "index": 14,
+          "ac": "yes",
+          "room": "living room",
+          "description": "modern minimalist living space",
+          "acLocation": "wall-mounted unit above door"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/15.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/15.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/15.jpg",
+          "index": 15,
+          "ac": "no",
+          "room": "hall",
+          "description": "modern minimalist hallway",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/16.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/16.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/16.jpg",
+          "index": 16,
+          "ac": "yes",
+          "room": "living room",
+          "description": "modern living room with sofa and table",
+          "acLocation": "wall-mounted unit above doorway"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/17.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/17.jpg",
+          "sourceOriginal": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/images/direct-imobiclara-serra-shopping-t1/17.jpg",
+          "index": 17,
+          "ac": "no",
+          "room": "living room",
+          "description": "modern minimalist living room",
+          "acLocation": ""
+        }
+      ],
+      "minutes": 4,
+      "km": 2.2,
+      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. The description gives Serra Shopping as a nearby landmark. Exact address is unconfirmed. OSRM estimate; excludes live traffic, parking and walking to your department.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2716172,-7.5009196&destination=40.2658607,-7.4934001&travelmode=driving",
+      "status": "review",
+      "updated": "",
+      "checked": "12 Nov 2026",
+      "analysedPhotos": 17
     }
   ],
   "coverage": [
@@ -12382,10 +12594,10 @@
   ],
   "imageHost": {
     "repository": "Unn4m3DD/snowy-home",
-    "revision": "120c81cd04e2e76110483151035d43a839f8d9ff",
+    "revision": "04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e",
     "branch": "images",
-    "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/",
-    "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/image-manifest.json",
-    "photoCount": 945
+    "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/",
+    "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/04dd8cc299dc96dadb1c532f8dd92c7dbc4fa93e/image-manifest.json",
+    "photoCount": 979
   }
 }
