@@ -1,8 +1,8 @@
 {
   "checked": "12 Nov 2026",
   "model": "Qwen3-VL-4B-Instruct (4-bit), running locally with MLX.",
-  "screened": 191,
-  "photoCount": 2629,
+  "screened": 192,
+  "photoCount": 2647,
   "listings": [
     {
       "requiresApproval": false,
@@ -12117,6 +12117,220 @@
       "updated": "",
       "checked": "12 Nov 2026",
       "analysedPhotos": 15
+    },
+    {
+      "requiresApproval": true,
+      "evidenceStatus": "match",
+      "id": "idealista-34435610",
+      "title": "T2 mobilado com garagem, Covilhã",
+      "price": 650,
+      "bedrooms": 2,
+      "typology": "T2",
+      "area": "130",
+      "address": "Rua Marquês d’Ávila e Bolama, Lote E",
+      "town": "Covilhã",
+      "source": "Idealista",
+      "url": "https://www.idealista.pt/imovel/34435610/",
+      "otherUrls": [],
+      "agency": "",
+      "garage": "Included",
+      "floor": "3.º andar com elevador",
+      "furnished": "Yes",
+      "available": "December unconfirmed",
+      "conditions": [
+        "Furnished and equipped.",
+        "Three months’ deposit.",
+        "No pets or smoking."
+      ],
+      "notes": [
+        "December move-in availability is unconfirmed."
+      ],
+      "acTag": false,
+      "acText": true,
+      "acQuote": "ar condicionado",
+      "photoAc": "no",
+      "roomCheck": true,
+      "roomEvidence": "Source photo 1: bedroom. Source photo 2: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
+      "photos": [
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/01.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/01.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/39/38/62/294041946.jpg",
+          "index": 1,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "modern bedroom with green walls",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/02.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/02.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/08/74/4b/294041805.jpg",
+          "index": 2,
+          "ac": "no",
+          "room": "living room",
+          "description": "living room with black furniture",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/03.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/03.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/25/b9/34/294041967.jpg",
+          "index": 3,
+          "ac": "no",
+          "room": "living room",
+          "description": "living room with furniture",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/04.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/04.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/87/d3/e7/294042230.jpg",
+          "index": 4,
+          "ac": "no",
+          "room": "living room",
+          "description": "dining area with fireplace",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/05.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/05.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/54/d6/d0/294043110.jpg",
+          "index": 5,
+          "ac": "no",
+          "room": "living room",
+          "description": "living room with dining table",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/06.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/06.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/11/c2/4a/294042104.jpg",
+          "index": 6,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "green-walled bedroom with bed",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/07.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/07.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/dc/a6/1e/294042135.jpg",
+          "index": 7,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "green-walled bedroom with bed",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/08.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/08.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/21/07/7b/294042141.jpg",
+          "index": 8,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "modern bedroom with blue walls",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/09.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/09.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/27/3d/a4/294042174.jpg",
+          "index": 9,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "Bedroom with blue wall and curtains",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/10.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/10.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/c5/e0/88/294042232.jpg",
+          "index": 10,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "Bedroom with blue wall",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/11.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/11.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/93/75/f2/294042186.jpg",
+          "index": 11,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "blue bedroom with bed",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/12.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/12.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/21/17/32/294042229.jpg",
+          "index": 12,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "small bathroom with pink fixtures",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/13.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/13.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/59/8a/17/294042492.jpg",
+          "index": 13,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "small bathroom with sink and tub",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/14.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/14.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/2b/c1/63/294042224.jpg",
+          "index": 14,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "small dining area with table and chairs",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/15.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/15.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/e6/c2/30/294042377.jpg",
+          "index": 15,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "kitchen with refrigerator and cabinets",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/16.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/16.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/47/ba/4b/294042312.jpg",
+          "index": 16,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "kitchen with appliances",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/17.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/84f5dd7ba897decdaf1d060acdd0c194bad9ed00/images/idealista-34435610/17.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/4e/85/e8/294042362.jpg",
+          "index": 17,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "kitchen with appliances",
+          "acLocation": ""
+        }
+      ],
+      "minutes": 7,
+      "km": 4.4,
+      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad names Lote E, but the exact building was not independently located. Route starts at a mapped point on the advertised street. OSRM estimate; excludes live traffic, parking and walking to your department.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.283664,-7.502421&destination=40.2658607,-7.4934001&travelmode=driving",
+      "status": "review",
+      "updated": "",
+      "checked": "12 Nov 2026",
+      "analysedPhotos": 17
     }
   ],
   "coverage": [
