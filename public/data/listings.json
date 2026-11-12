@@ -196,7 +196,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2887013,-7.4987145&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "2026-10-29",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 15
     },
     {
@@ -1432,7 +1432,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.275707,-7.4995074&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "2026-08-19",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 9
     },
     {
@@ -2214,7 +2214,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.14153,-7.5047&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "2026-10-22",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 40
     },
     {
@@ -2517,7 +2517,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.046783,-7.8054843&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "excluded",
       "updated": "2026-10-30",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 26
     },
     {
@@ -2785,7 +2785,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.29955,-7.49539&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "2026-08-11",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 7
     },
     {
@@ -3558,124 +3558,6 @@
       "updated": "2026-10-08",
       "checked": "30 Oct 2026",
       "analysedPhotos": 9
-    },
-    {
-      "requiresApproval": false,
-      "evidenceStatus": "match",
-      "id": "imovia-19295460",
-      "title": "ApartamentoT2 para alugar em Fundão",
-      "price": 600,
-      "bedrooms": 2,
-      "typology": "T2",
-      "area": "62",
-      "address": "Rua Frei Diogo da Silva",
-      "town": "Fundão",
-      "source": "Imovia24",
-      "url": "https://pt.imovia24.com/imovel/apartamentot2-para-alugar-em-fundao-i19295460",
-      "otherUrls": [],
-      "agency": null,
-      "garage": "Unknown",
-      "floor": "Unknown floor",
-      "furnished": "Yes",
-      "available": "December unconfirmed",
-      "conditions": [],
-      "notes": [],
-      "acTag": false,
-      "acText": false,
-      "acQuote": "",
-      "photoAc": "yes",
-      "roomCheck": true,
-      "roomEvidence": "Source photo 5: bedroom. Source photo 1: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/01.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/01.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpzY3J2YWViaWQycjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.w2aPIAiTUpf8yBQXssk-t5an1x9ANtkqr3eiwjkiJXY/image;s=2048x1536;q=80",
-          "index": 1,
-          "ac": "yes",
-          "room": "living room",
-          "description": "modern living room with dining set",
-          "acLocation": "wall-mounted indoor AC unit"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/02.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/02.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjEyazc3OW5sNjBreC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.8dxGlGkwA8NUK68OhQc1feq0CaWaOs8rKrLCpKuRoWE/image;s=2048x1536;q=80",
-          "index": 2,
-          "ac": "no",
-          "room": "kitchen",
-          "description": "modern kitchen with white cabinets",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/03.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/03.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ink3dnB5dXBqcTJ2bzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fje-WTWSkv2xESZ9fC5Jfz5n6R5zEDDI6mU2WuEhJyE/image;s=2048x1536;q=80",
-          "index": 3,
-          "ac": "no",
-          "room": "bathroom",
-          "description": "modern bathroom with shower and sink",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/04.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/04.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im84bm96enYwazJwbzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.MXy7QF37ey00Y8S8U7esWin_LrhvrOOWV52Fy6A8m2U/image;s=2048x1536;q=80",
-          "index": 4,
-          "ac": "yes",
-          "room": "other",
-          "description": "empty room with window and AC",
-          "acLocation": "white wall-mounted indoor unit"
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/05.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/05.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBiZ3M3ZTJ1Y2x4NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ulbYqTIYaTs8iT902C5q8l4aozafq2GPikzXO2qlgk4/image;s=2048x1536;q=80",
-          "index": 5,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "empty bedroom with mattress",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/06.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/06.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNxN2ZjMWNoYzYxYTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.79qVAEO9TDFc_x0nwa7DcPXaR1-dyCKCLWXqt4yzkVs/image;s=2048x1536;q=80",
-          "index": 6,
-          "ac": "no",
-          "room": "bedroom",
-          "description": "minimalist bedroom with bed",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/07.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/07.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ4cmhzMHk4OHhidDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.C2B4d7-6Qy-AeQ7AxsADElIPrwwqVAFp_J25TOg245w/image;s=2048x1536;q=80",
-          "index": 7,
-          "ac": "no",
-          "room": "living room",
-          "description": "modern kitchen dining area",
-          "acLocation": ""
-        },
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/08.jpg",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/imovia-19295460/08.jpg",
-          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InUxZXpyZXd5aHR5bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.J9XDL0Xw_wjz5FFh_p8ge8RTK6BLC5kpEfcnUK5bLIo/image;s=2048x1536;q=80",
-          "index": 8,
-          "ac": "possible",
-          "room": "exterior",
-          "description": "balcony with AC unit",
-          "acLocation": "outdoor unit on balcony wall. Confirm this outdoor unit serves the advertised apartment."
-        }
-      ],
-      "minutes": 20,
-      "km": 20.5,
-      "commuteNote": "Advertised pin. Approximate listing pin; exact address and traffic unverified OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.1331,-7.5069&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "match",
-      "updated": "2026-10-08",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 8
     },
     {
       "requiresApproval": false,
@@ -4453,7 +4335,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2739531,-7.4984751&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 42
     },
     {
@@ -4717,7 +4599,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.257816,-7.5073966&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 22
     },
     {
@@ -5753,12 +5635,7 @@
       "town": "Paul",
       "source": "Idealista",
       "url": "https://www.idealista.pt/imovel/35413229/",
-      "otherUrls": [
-        {
-          "source": "Imovirtual",
-          "url": "https://www.imovirtual.com/pt/anuncio/alugo-apartamento-t2-em-paul-15m-de-covilha-ID1j7c4"
-        }
-      ],
+      "otherUrls": [],
       "agency": "Private advertiser",
       "garage": "Unknown",
       "floor": "1º andar · no lift",
@@ -5766,7 +5643,6 @@
       "available": "December unconfirmed",
       "conditions": [],
       "notes": [
-        "Multiple ads use the same photos. All source links are retained; confirm they refer to the same available unit.",
         "Unfurnished enclosed room counted as a bedroom using the T2 tag plus the separate-room photo; confirm its intended use."
       ],
       "acTag": true,
@@ -5813,7 +5689,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2020317,-7.6380296&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 3
     },
     {
@@ -5921,7 +5797,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2704394,-7.5035191&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 7
     },
     {
@@ -6141,57 +6017,6 @@
       "updated": "",
       "checked": "8 Nov 2026",
       "analysedPhotos": 18
-    },
-    {
-      "requiresApproval": false,
-      "evidenceStatus": "excluded",
-      "id": "idealista-34787240",
-      "title": "apartamento T1 na Rua de s André, 38",
-      "price": 500.0,
-      "bedrooms": 1,
-      "typology": "T1",
-      "area": "120",
-      "address": "Rua de s André, 38",
-      "town": "Covilhã",
-      "source": "Idealista",
-      "url": "https://www.idealista.pt/imovel/34787240/",
-      "otherUrls": [],
-      "agency": "Private advertiser",
-      "garage": "Unknown",
-      "floor": "1º andar · lift",
-      "furnished": "Yes",
-      "available": "December unconfirmed",
-      "conditions": [],
-      "notes": [
-        "Description explicitly says T0 despite T1 tag. Only one photo; separate bedroom cannot be checked.",
-        "120 m² gross /25 m² usable inconsistency. Maximum one occupant."
-      ],
-      "acTag": true,
-      "acText": true,
-      "acQuote": "áquina de secar e lavar roupa ar condicionado etc",
-      "photoAc": "no",
-      "roomCheck": false,
-      "roomEvidence": "A separate bedroom and another distinct interior room could not both be established from the downloaded photos.",
-      "photos": [
-        {
-          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/idealista-34787240/01.webp",
-          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/8e86e1b2b55e170cdcfcd2e1a777f0c45458b4bf/images/idealista-34787240/01.webp",
-          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL_TOP-L-P/0/id.pro.pt.image.master/7e/66/a6/307422900.webp",
-          "index": 1,
-          "ac": "no",
-          "room": "other",
-          "description": "no visible AC or room details",
-          "acLocation": ""
-        }
-      ],
-      "minutes": 6,
-      "km": 3.5,
-      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad gives RuaSAndré38; route uses CalçadaSantoAndré as neighborhood reference only. Very low confidence in street-name match. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2785319,-7.5061013&destination=40.2658607,-7.4934001&travelmode=driving",
-      "status": "excluded",
-      "updated": "",
-      "checked": "30 Oct 2026",
-      "analysedPhotos": 1
     },
     {
       "requiresApproval": false,
@@ -6478,7 +6303,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.139541,-7.4992226&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 25
     },
     {
@@ -7315,7 +7140,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2950487,-7.3639902&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "",
-      "checked": "30 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 17
     },
     {
@@ -8577,7 +8402,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2960996,-7.4727103&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "review",
       "updated": "2026-10-30",
-      "checked": "31 Oct 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 18
     },
     {
@@ -8791,7 +8616,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.1621069,-7.4991618&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "review",
       "updated": "",
-      "checked": "1 Nov 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 17
     },
     {
@@ -9789,7 +9614,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.270310476729065,-7.50346191075272&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "review",
       "updated": "2026-10-26",
-      "checked": "2 Nov 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 20
     },
     {
@@ -9937,7 +9762,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.281708991645665,-7.50492523894586&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "review",
       "updated": "2026-10-23",
-      "checked": "2 Nov 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 11
     },
     {
@@ -10162,7 +9987,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2696129,-7.50073&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "review",
       "updated": "",
-      "checked": "3 Nov 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 10
     },
     {
@@ -11035,7 +10860,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.254211,-7.4921904&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "review",
       "updated": "",
-      "checked": "10 Nov 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 8
     },
     {
@@ -11203,7 +11028,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.366776,-7.3974874&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "review",
       "updated": "",
-      "checked": "10 Nov 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 12
     },
     {
@@ -11467,7 +11292,7 @@
       "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2436718,-7.5271238&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "review",
       "updated": "",
-      "checked": "10 Nov 2026",
+      "checked": "12 Nov 2026",
       "analysedPhotos": 22
     },
     {
@@ -13017,6 +12842,6 @@
     "branch": "images",
     "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/",
     "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/image-manifest.json",
-    "photoCount": 1007
+    "photoCount": 998
   }
 }
