@@ -1,8 +1,8 @@
 {
   "checked": "12 Nov 2026",
   "model": "Qwen3-VL-4B-Instruct (4-bit), running locally with MLX.",
-  "screened": 194,
-  "photoCount": 2677,
+  "screened": 196,
+  "photoCount": 2693,
   "listings": [
     {
       "requiresApproval": false,
@@ -12704,6 +12704,264 @@
       "updated": "",
       "checked": "12 Nov 2026",
       "analysedPhotos": 13
+    },
+    {
+      "requiresApproval": true,
+      "evidenceStatus": "match",
+      "id": "imovirtual-18217271",
+      "title": "Apartamento T1 para Arrendamento na Anil",
+      "price": 600,
+      "bedrooms": 1,
+      "typology": "T1",
+      "area": "56",
+      "address": "Avenida da Anil",
+      "town": "Covilhã",
+      "source": "Imovirtual",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-na-anil-ID1er8X",
+      "otherUrls": [
+        {
+          "source": "DBJ",
+          "url": "https://www.dbj.pt/imovel/apartamento-t1-para-arrendamento-na-anil/21147562"
+        },
+        {
+          "source": "Casa Yes",
+          "url": "https://casayes.pt/pt/imovel/arrendamento-apartamento-t1-covilha-covilha-e-canhoso/KlMk8027HeL"
+        },
+        {
+          "source": "Imovia24",
+          "url": "https://pt.imovia24.com/imovel/apartamento-t1-para-arrendamento-na-anil-i18217271"
+        }
+      ],
+      "agency": "DBJ",
+      "garage": "No garage listed on Casa Yes",
+      "floor": "Unknown floor",
+      "furnished": "Not stated",
+      "available": "January 2027, day unconfirmed",
+      "conditions": [],
+      "notes": [
+        "The description says January 2027. Imovirtual’s auto-filled date shows 1 January. Confirm the day with DBJ."
+      ],
+      "acTag": false,
+      "acText": false,
+      "acQuote": "",
+      "photoAc": "yes",
+      "roomCheck": true,
+      "roomEvidence": "Source photo 7: bedroom. Source photo 1: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
+      "photos": [
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/01.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/01.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZiaGpma2d2YWlhOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.JD24kJhyvuballj6mQgmqZAiJxyDjHNVLxyzj4OJeQI/image",
+          "index": 1,
+          "ac": "yes",
+          "room": "living room",
+          "description": "modern open-plan living area",
+          "acLocation": "Wall-mounted split unit at the upper left edge"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/02.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/02.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFtMzZqZmQ3MTFsOS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.AvqJaoMvRdt-0qcXKq2r_nknhvjQonkQObzG8z1pbXM/image",
+          "index": 2,
+          "ac": "yes",
+          "room": "living room",
+          "description": "modern living room with dining area",
+          "acLocation": "wall-mounted indoor AC unit"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/03.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/03.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBqZ2Z5bGRhc3hkcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.jQb1laGlms8ycV8hPcpoM3bNu750Xxb9-uPxhSHaz2w/image",
+          "index": 3,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "modern kitchen with dining area",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/04.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/04.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndtbjZuczk5djZhOS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ohJgj_KW3NA-xA_7m_mKU1znPBlux5iFpTwyYOaS5hE/image",
+          "index": 4,
+          "ac": "yes",
+          "room": "living room",
+          "description": "modern living room with sofa",
+          "acLocation": "wall-mounted indoor AC unit"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/05.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/05.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdtcGp2YjFyOWNkejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Uj5DTf21zr0-zQHzaH7qsCK2cFs_fP9niJUdBkKSedw/image",
+          "index": 5,
+          "ac": "no",
+          "room": "hall",
+          "description": "modern hallway with coat rack",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/06.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/06.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im43aDNzcmR0bzJqaS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.mKQQ9CYrWqhQHYwsd7KknfB8AyQowH57RHiBKUA1Tds/image",
+          "index": 6,
+          "ac": "no",
+          "room": "living room",
+          "description": "modern living room",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/07.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/07.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im4zMGFybDB0YXZ0czItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GycBxa3LWHOKBcchp6Q-yEBAC-CCmNe5fDMSSJ7LgHo/image",
+          "index": 7,
+          "ac": "yes",
+          "room": "bedroom",
+          "description": "modern bedroom with bed and nightstand",
+          "acLocation": "wall-mounted indoor unit above bed"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/08.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/08.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw3dTNwaGdrOHlhcDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._jeLhHlxlZaJ13WER0u_OSWXbfOVQvyApfagOvdPtD0/image",
+          "index": 8,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "minimalist bedroom with bed and chair",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/09.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/09.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZpbXE3OHJ4Z2g0Mi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.PSI2Vh_vIDCa4B-T8zBVyj8kFW8WNNmIGsA-7_I58Mk/image",
+          "index": 9,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "modern marble bathroom",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/10.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/imovirtual-18217271/10.jpg",
+          "sourceOriginal": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ0anZ1dzZudWs3NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.udwuPvAOWQwTx1ZtR-T1PLzoa3oUHMS_8jiicKrejZE/image",
+          "index": 10,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "modern marble bathroom",
+          "acLocation": ""
+        }
+      ],
+      "minutes": 3,
+      "km": 1.6,
+      "commuteNote": "Street/landmark area estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Route starts on the advertised avenue. Exact building unverified. OSRM estimate; excludes live traffic, parking and walking to your department.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2724527,-7.4977257&destination=40.2658607,-7.4934001&travelmode=driving",
+      "status": "review",
+      "updated": "",
+      "checked": "12 Nov 2026",
+      "analysedPhotos": 10,
+      "januaryMoveIn": true
+    },
+    {
+      "requiresApproval": true,
+      "evidenceStatus": "match",
+      "id": "idealista-30079117",
+      "title": "T2 mobilado no Bairro de Santo Antão, Belmonte",
+      "price": 550,
+      "bedrooms": 2,
+      "typology": "T2",
+      "area": "70",
+      "address": "Bairro de Santo Antão, 23",
+      "town": "Belmonte",
+      "source": "Idealista",
+      "url": "https://www.idealista.pt/imovel/30079117/",
+      "otherUrls": [],
+      "agency": "",
+      "garage": "Unknown",
+      "floor": "Ground floor",
+      "furnished": "Not stated",
+      "available": "January 2027, day unconfirmed",
+      "conditions": [
+        "Two months’ deposit.",
+        "Internet and TV included.",
+        "Shared garden.",
+        "Pets not accepted."
+      ],
+      "notes": [],
+      "acTag": true,
+      "acText": true,
+      "acQuote": "ar condicionado",
+      "photoAc": "no",
+      "roomCheck": true,
+      "roomEvidence": "Source photo 3: bedroom. Source photo 1: kitchen. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
+      "photos": [
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/01.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/01.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/0b/3b/6d/109699218.jpg",
+          "index": 1,
+          "ac": "no",
+          "room": "kitchen",
+          "description": "modern kitchen with yellow cabinets",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/02.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/02.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/f6/3d/ee/332825398.jpg",
+          "index": 2,
+          "ac": "no",
+          "room": "living room",
+          "description": "living room with TV and sofa",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/03.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/03.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/bd/e7/80/109699221.jpg",
+          "index": 3,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "cozy bedroom with wooden bed",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/04.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/04.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/1b/02/47/332825368.jpg",
+          "index": 4,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "bedroom with window view",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/05.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/05.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/7b/5a/87/109699216.jpg",
+          "index": 5,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "bathroom with window and sink",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/06.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/images/idealista-30079117/06.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/3c/10/a1/332825344.jpg",
+          "index": 6,
+          "ac": "no",
+          "room": "exterior",
+          "description": "balcony terrace area",
+          "acLocation": ""
+        }
+      ],
+      "minutes": 21,
+      "km": 19.1,
+      "commuteNote": "Locality reference estimate. Area estimate from advertised street or nearby landmark; exact property address unverified. Broad locality reference from central Belmonte. The advertised street number could not be independently geocoded. OSRM estimate; excludes live traffic, parking and walking to your department.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.3583264,-7.3512742&destination=40.2658607,-7.4934001&travelmode=driving",
+      "status": "review",
+      "updated": "",
+      "checked": "12 Nov 2026",
+      "analysedPhotos": 6,
+      "januaryMoveIn": true
     }
   ],
   "coverage": [
@@ -12749,16 +13007,16 @@
     }
   ],
   "limits": [
-    "This is a dated search snapshot, not a live availability feed. December dates require direct confirmation.",
+    "This is a dated search snapshot, not a live availability feed. Move-in dates require direct confirmation.",
     "Public, accessible sources were searched broadly. Login-only Facebook groups and unavailable / blocked galleries could not be exhaustively checked.",
     "Similar ads have been merged when identified; other duplicates may remain. A local model can miss or misidentify AC and room boundaries."
   ],
   "imageHost": {
     "repository": "Unn4m3DD/snowy-home",
-    "revision": "a265371294aae5ecb0fed75b1cfd9527d7f1a784",
+    "revision": "d690a611d9629b8ceb9e02db28c8a18f7bd65697",
     "branch": "images",
-    "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/a265371294aae5ecb0fed75b1cfd9527d7f1a784/",
-    "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/a265371294aae5ecb0fed75b1cfd9527d7f1a784/image-manifest.json",
-    "photoCount": 991
+    "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/",
+    "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/d690a611d9629b8ceb9e02db28c8a18f7bd65697/image-manifest.json",
+    "photoCount": 1007
   }
 }
