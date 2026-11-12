@@ -1,8 +1,8 @@
 {
-  "checked": "10 Nov 2026",
+  "checked": "12 Nov 2026",
   "model": "Qwen3-VL-4B-Instruct (4-bit), running locally with MLX.",
-  "screened": 185,
-  "photoCount": 2534,
+  "screened": 191,
+  "photoCount": 2629,
   "listings": [
     {
       "requiresApproval": false,
@@ -11924,6 +11924,199 @@
       "updated": "",
       "checked": "10 Nov 2026",
       "analysedPhotos": 17
+    },
+    {
+      "requiresApproval": true,
+      "evidenceStatus": "match",
+      "id": "idealista-35477163",
+      "title": "T1 com garagem, Covilhã",
+      "price": 700,
+      "bedrooms": 1,
+      "typology": "T1",
+      "area": "66",
+      "address": "Near Serra Shopping and Faculty of Health Sciences",
+      "town": "Covilhã",
+      "source": "Idealista",
+      "url": "https://www.idealista.pt/imovel/35477163/",
+      "otherUrls": [],
+      "agency": "ERA Covilhã",
+      "garage": "Included",
+      "floor": "Unknown floor · lift",
+      "furnished": "Yes",
+      "available": "December availability unconfirmed",
+      "conditions": [
+        "Furnished and equipped. Basement garage space included. Lift."
+      ],
+      "notes": [
+        "Indoor wall-mounted AC visible in living-room photos 1 and 2. Separate bedroom visible in photo 5.",
+        "Ad withholds exact address. Commute is estimated from the nearby Serra Shopping landmark."
+      ],
+      "acTag": false,
+      "acText": false,
+      "acQuote": "",
+      "photoAc": "yes",
+      "roomCheck": true,
+      "roomEvidence": "Source photo 5: bedroom. Source photo 1: living room. Room labels combine the local model and visual review; confirm the exact layout in the gallery.",
+      "photos": [
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/01.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/01.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/5b/b2/bd/336290663.jpg",
+          "index": 1,
+          "ac": "yes",
+          "room": "living room",
+          "description": "modern open-plan living space",
+          "acLocation": "wall-mounted indoor AC unit"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/02.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/02.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/99/09/7b/336290665.jpg",
+          "index": 2,
+          "ac": "yes",
+          "room": "living room",
+          "description": "modern open-plan living room",
+          "acLocation": "wall-mounted indoor AC unit"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/03.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/03.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/bb/c3/4a/336290937.jpg",
+          "index": 3,
+          "ac": "no",
+          "room": "hall",
+          "description": "modern minimalist hallway",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/04.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/04.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/8e/fa/c1/336290939.jpg",
+          "index": 4,
+          "ac": "no",
+          "room": "hall",
+          "description": "modern hallway entrance",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/05.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/05.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/ac/ee/ab/336290941.jpg",
+          "index": 5,
+          "ac": "no",
+          "room": "bedroom",
+          "description": "modern bedroom with bed and window",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/06.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/06.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/32/58/12/336290944.jpg",
+          "index": 6,
+          "ac": "no",
+          "room": "bathroom",
+          "description": "modern bathroom with marble tiles",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/07.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/07.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/da/7d/fd/336290945.jpg",
+          "index": 7,
+          "ac": "no",
+          "room": "hall",
+          "description": "modern minimalist hallway",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/08.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/08.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-P/0/id.pro.pt.image.master/2a/6a/ea/336290947.jpg",
+          "index": 8,
+          "ac": "no",
+          "room": "other",
+          "description": "laundry room with washer",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/09.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/09.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/44/db/54/336290949.jpg",
+          "index": 9,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/10.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/10.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/00/e1/3a/336290951.jpg",
+          "index": 10,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/11.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/11.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/84/3e/a0/336290953.jpg",
+          "index": 11,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/12.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/12.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/17/d4/42/336290955.jpg",
+          "index": 12,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/13.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/13.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/e1/6e/bc/336290957.jpg",
+          "index": 13,
+          "ac": "no",
+          "room": "",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/14.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/14.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/d8/d5/4d/336290958.jpg",
+          "index": 14,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        },
+        {
+          "src": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/15.jpg",
+          "original": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/images/idealista-35477163/15.jpg",
+          "sourceOriginal": "https://img4.idealista.pt/blur/WEB_DETAIL-XL-L/0/id.pro.pt.image.master/ef/46/d6/336290960.jpg",
+          "index": 15,
+          "ac": "no",
+          "room": "other",
+          "description": "",
+          "acLocation": ""
+        }
+      ],
+      "minutes": 4,
+      "km": 2.2,
+      "commuteNote": "Nearby landmark reference. Area estimate from advertised street or nearby landmark; exact property address unverified. Ad names Serra Shopping and the Faculty of Health Sciences but withholds exact address. Route starts at the Serra Shopping stop on Alameda da Europa. Confirm the exact building and travel time. OSRM estimate; excludes live traffic, parking and walking to your department.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.2716172,-7.5009196&destination=40.2658607,-7.4934001&travelmode=driving",
+      "status": "review",
+      "updated": "",
+      "checked": "12 Nov 2026",
+      "analysedPhotos": 15
     }
   ],
   "coverage": [
@@ -11975,10 +12168,10 @@
   ],
   "imageHost": {
     "repository": "Unn4m3DD/snowy-home",
-    "revision": "ebe61322c67b5b7ff8aebf06f7c0dec8262b3c14",
+    "revision": "120c81cd04e2e76110483151035d43a839f8d9ff",
     "branch": "images",
-    "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/ebe61322c67b5b7ff8aebf06f7c0dec8262b3c14/",
-    "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/ebe61322c67b5b7ff8aebf06f7c0dec8262b3c14/image-manifest.json",
-    "photoCount": 930
+    "baseUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/",
+    "manifestUrl": "https://raw.githubusercontent.com/Unn4m3DD/snowy-home/120c81cd04e2e76110483151035d43a839f8d9ff/image-manifest.json",
+    "photoCount": 945
   }
 }
