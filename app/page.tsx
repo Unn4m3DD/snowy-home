@@ -27,6 +27,7 @@ import {
 } from "@/components/ui/dialog";
 
 import { TrackingFields } from "@/components/tracker/tracking-fields";
+import { RentalCalendar } from "@/components/tracker/rental-calendar";
 import { emptyTracking, type ApartmentTracking } from "@/lib/tracking";
 
 type Photo = {
@@ -55,6 +56,7 @@ type Listing = {
   floor: string;
   furnished: string;
   available: string;
+  januaryMoveIn?: boolean;
   conditions: string[];
   notes: string[];
   acTag: boolean;
@@ -89,6 +91,8 @@ const euro = (n: number) =>
     currency: "EUR",
     maximumFractionDigits: 0,
   }).format(n);
+const hasJanuaryMoveIn = (listing: Listing) =>
+  listing.januaryMoveIn ?? listing.available.startsWith("From 2027-01-");
 function AC({ l }: { l: Listing }) {
   return (
     <div className="evidence-pills">
@@ -353,7 +357,7 @@ export default function Home() {
     .filter(
       (l) =>
         (view === "removed" ? !!tracking[l.id]?.removed : !tracking[l.id]?.removed) &&
-        (view === "all" || view === "removed" ||
+        (view === "all" || view === "removed" || view === "calendar" ||
           (view === "contacted" && tracking[l.id]?.contacted) ||
           (view === "matches" && listingStatus(l) === "match") ||
           (view === "review" && listingStatus(l) === "review")) &&
@@ -434,9 +438,9 @@ export default function Home() {
           </div>
         </div>
         <div className="move-in">
-          <span>MOVE-IN</span>
+          <span>TARGET MOVE-IN</span>
           <strong>15 Dec 2026</strong>
-          <small>1 Dec for a good deal</small>
+          <small>Rent from 1 Dec · January starts also tracked</small>
         </div>
       </section>
       <div className="workspace">
@@ -538,7 +542,7 @@ export default function Home() {
             <p className="tracker-sync" role="alert">{trackerStatus}</p>
           )}
           <div className="results-tabs">
-            <div role="tablist" aria-label="Listing status">
+            <div role="tablist" aria-label="Tracker views">
               {[
                 ["matches", "Matches", matches.length],
                 [
@@ -549,6 +553,7 @@ export default function Home() {
                 ["all", "All screened", activeListings.length],
                 ["contacted", "Contacted", activeListings.filter(l => tracking[l.id]?.contacted).length],
                 ["removed", "Removed", listings.length - activeListings.length],
+                ["calendar", "Calendar", null],
               ].map(([key, label, count]) => (
                 <button
                   key={key}
@@ -558,29 +563,35 @@ export default function Home() {
                   onClick={() => setView(String(key))}
                 >
                   {label}
-                  <span>{count}</span>
+                  {count !== null && <span>{count}</span>}
                 </button>
               ))}
             </div>
           </div>
           <div className="results-toolbar">
             <p>
-              <strong>{filtered.length}</strong>{" "}
-              {view === "matches"
-                ? "matching apartments"
-                : view === "review"
-                  ? "listings to verify"
-                  : view === "contacted"
-                    ? "contacted apartments"
-                    : view === "removed" ? "removed apartments"
-                    : "screened listings"}
-              <span>
-                {" "}
-                ·{" "}
-                {view === "matches"
-                  ? "Approved apartments and AC evidence matches"
-                  : "Check the evidence before shortlisting"}
-              </span>
+              {view === "calendar" ? (
+                <strong>Scheduled visits</strong>
+              ) : (
+                <>
+                  <strong>{filtered.length}</strong>{" "}
+                  {view === "matches"
+                    ? "matching apartments"
+                    : view === "review"
+                      ? "listings to verify"
+                      : view === "contacted"
+                        ? "contacted apartments"
+                        : view === "removed" ? "removed apartments"
+                        : "screened listings"}
+                  <span>
+                    {" "}
+                    ·{" "}
+                    {view === "matches"
+                      ? "Approved apartments and AC evidence matches"
+                      : "Check the evidence before shortlisting"}
+                  </span>
+                </>
+              )}
             </p>
             <div>
               <button
@@ -590,16 +601,18 @@ export default function Home() {
                 <SlidersHorizontal size={15} />
                 Filters
               </button>
-              <select
-                aria-label="Sort listings"
-                value={sort}
-                onChange={(e) => setSort(e.target.value)}
-              >
-                <option value="evidence">Photo evidence first</option>
-                <option value="price">Lowest rent first</option>
-                <option value="commute">Shortest drive first</option>
-                <option value="space">Largest first</option>
-              </select>
+              {view !== "calendar" && (
+                <select
+                  aria-label="Sort listings"
+                  value={sort}
+                  onChange={(e) => setSort(e.target.value)}
+                >
+                  <option value="evidence">Photo evidence first</option>
+                  <option value="price">Lowest rent first</option>
+                  <option value="commute">Shortest drive first</option>
+                  <option value="space">Largest first</option>
+                </select>
+              )}
             </div>
           </div>
           {!data ? (
@@ -608,6 +621,13 @@ export default function Home() {
                 ? "Could not load listings. Please reload."
                 : "Loading researched listings…"}
             </div>
+          ) : view === "calendar" ? (
+            <RentalCalendar
+              listings={filtered}
+              tracking={tracking}
+              trackerReady={trackerReady}
+              onOpen={open}
+            />
           ) : (
             <>
               <div className="cards">
@@ -644,6 +664,7 @@ export default function Home() {
                       <h2>
                         <button onClick={() => open(l)}>{l.title}</button>
                       </h2>
+                      {hasJanuaryMoveIn(l) && <span className="evidence possible january-move-in">January 2027 move-in</span>}
                       <p className="address">
                         <MapPin size={13} />
                         {l.address || l.town}
@@ -719,7 +740,7 @@ export default function Home() {
               )}
               <footer className="results-footer">
                 {data.screened} source ads screened · {data.photoCount} photos
-                analysed locally · Availability for December needs landlord
+                analysed locally · Move-in dates need landlord
                 confirmation.
               </footer>
             </>
@@ -900,7 +921,10 @@ export default function Home() {
                     </div>
                     <div>
                       <dt>Available</dt>
-                      <dd>{selected.available}</dd>
+                      <dd>
+                        {selected.available}
+                        {hasJanuaryMoveIn(selected) && <span className="evidence possible january-move-in">January 2027 move-in</span>}
+                      </dd>
                     </div>
                     <div>
                       <dt>Hospital drive</dt>
@@ -985,7 +1009,8 @@ export default function Home() {
           </DialogDescription>
           <p>
             Search: ≤ €1,100/month, T1+, ≤ 30 minutes by car to Hospital Pêro da
-            Covilhã. Target move-in 15 December 2026; 1 December acceptable.
+            Covilhã. Target move-in 15 December 2026, with rent from 1 December
+            acceptable. January 2027 move-ins are also included and flagged.
           </p>
           <h3>AC evidence</h3>
           <p>
