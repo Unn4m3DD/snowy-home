@@ -1,9 +1,53 @@
 "use client";
 
 import { format, isValid, parseISO } from "date-fns";
+import { Button } from "@/components/ui/button";
 import type { ApartmentTracking } from "@/lib/tracking";
 
-type CalendarListing = { id: string; title: string };
+type CalendarListing = {
+  id: string;
+  title: string;
+  address: string;
+  town: string;
+  routeUrl: string;
+};
+
+function VisitLocation({ listing }: { listing: CalendarListing }) {
+  const address = listing.address.trim();
+  const areaOnly = !address || address === listing.town || /\bnear\b|address withheld/i.test(address);
+  const addressQuery = [
+    address.replace(/\s*·\s*exact address withheld$/i, ""),
+    address.toLowerCase().includes(listing.town.toLowerCase()) ? "" : listing.town,
+    "Portugal",
+  ].filter(Boolean).join(", ");
+  let coordinates = "";
+  if (areaOnly) {
+    try {
+      const origin = new URL(listing.routeUrl).searchParams.get("origin") ?? "";
+      if (/^-?\d+(?:\.\d+)?,-?\d+(?:\.\d+)?$/.test(origin)) coordinates = origin;
+    } catch {
+      // A missing route leaves the address search available.
+    }
+  }
+  const maps = new URLSearchParams({ api: "1", query: coordinates || addressQuery });
+  const waze = new URLSearchParams(coordinates ? { ll: coordinates } : { q: addressQuery });
+
+  return (
+    <div className="rental-visit-location">
+      <span>{address || listing.town}{areaOnly && " (approximate area)"}</span>
+      <div className="rental-visit-links">
+        <Button asChild variant="outline" size="sm">
+          <a href={`https://www.google.com/maps/search/?${maps}`} target="_blank" rel="noreferrer"
+            aria-label={`Open location in Google Maps for ${listing.title}`}>Google Maps</a>
+        </Button>
+        <Button asChild variant="outline" size="sm">
+          <a href={`https://www.waze.com/ul?${waze}`} target="_blank" rel="noreferrer"
+            aria-label={`Open location in Waze for ${listing.title}`}>Waze</a>
+        </Button>
+      </div>
+    </div>
+  );
+}
 
 export function RentalCalendar<T extends CalendarListing>({
   listings, tracking, trackerReady, onOpen,
@@ -41,6 +85,7 @@ export function RentalCalendar<T extends CalendarListing>({
                     <span>{visit.time} Portugal time</span>
                     <strong>{visit.listing.title}</strong>
                   </button>
+                  <VisitLocation listing={visit.listing} />
                 </li>
               ))}
             </ul>

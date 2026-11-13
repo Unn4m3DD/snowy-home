@@ -492,10 +492,18 @@ input[type="range"] {
 .rental-agenda-list li + li {
   border-top: 1px solid #e8ecee;
 }
+.rental-agenda-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 12px;
+  padding: 4px 0;
+}
 .rental-agenda-list button {
   display: grid;
+  flex: 1 1 220px;
+  min-width: 0;
   gap: 3px;
-  width: 100%;
   padding: 10px 6px;
   text-align: left;
   border-radius: 4px;
@@ -510,6 +518,18 @@ input[type="range"] {
 .rental-agenda-list strong {
   font-size: 13px;
   overflow-wrap: anywhere;
+}
+.rental-visit-location {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 12px;
+  padding: 4px 6px;
+}
+.rental-visit-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
 }
 .cards {
   display: grid;
