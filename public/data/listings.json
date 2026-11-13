@@ -13,7 +13,7 @@
       "bedrooms": 3,
       "typology": "T3",
       "area": "105",
-      "address": "Covilhã",
+      "address": "Urbanização Ribeiro de Flandres, Penedos Altos, Covilhã",
       "town": "Covilhã",
       "source": "Imovirtual",
       "url": "https://www.imovirtual.com/pt/anuncio/t3-c-lug-garagem-urb-rib-flandres-covilha-ID1j65o",
@@ -197,7 +197,11 @@
       "status": "match",
       "updated": "2026-10-29",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 15
+      "analysedPhotos": 15,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2887013,-7.4987145"
+      }
     },
     {
       "requiresApproval": false,
@@ -1309,7 +1313,7 @@
       "bedrooms": 1,
       "typology": "T1",
       "area": "65",
-      "address": "Covilhã",
+      "address": "Near Faculdade de Ciências da Saúde (UBI), Zona Nova, Covilhã",
       "town": "Covilhã",
       "source": "Imovirtual",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-semi-novo-mobilado-e-equipado-zona-nova-da-covilha-ID1iE0a",
@@ -1426,14 +1430,18 @@
           "acLocation": ""
         }
       ],
-      "minutes": 4,
-      "km": 2.2,
-      "commuteNote": "Advertised pin. Low confidence: generic/shared map location used across unrelated ads; exact property location unverified. OSRM estimate; excludes live traffic, parking and walking to your department.",
-      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.275707,-7.4995074&destination=40.2658607,-7.4934001&travelmode=driving",
+      "minutes": 2,
+      "km": 0.8,
+      "commuteNote": "Landmark estimate from the Faculty of Health Sciences, named in the ad. Confirm the building with the agent. OSRM estimate excludes live traffic and parking.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=40.267575,-7.495036111111111&destination=40.2658607,-7.4934001&travelmode=driving",
       "status": "match",
       "updated": "2026-08-19",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 9
+      "analysedPhotos": 9,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2675750,-7.4950361"
+      }
     },
     {
       "requiresApproval": false,
@@ -2215,7 +2223,10 @@
       "status": "match",
       "updated": "2026-10-22",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 40
+      "analysedPhotos": 40,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": false,
@@ -2226,7 +2237,7 @@
       "bedrooms": 1,
       "typology": "T1",
       "area": "60",
-      "address": "3320-105",
+      "address": "Janeiro de Baixo, Pampilhosa da Serra, 3320-105",
       "town": "Pampilhosa da Serra",
       "source": "Imovirtual",
       "url": "https://www.imovirtual.com/pt/anuncio/casa-com-1-quartos-localizado-em-coimbra-ID1hsQ3",
@@ -2518,7 +2529,10 @@
       "status": "excluded",
       "updated": "2026-10-30",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 26
+      "analysedPhotos": 26,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": false,
@@ -2786,7 +2800,10 @@
       "status": "match",
       "updated": "2026-08-11",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 7
+      "analysedPhotos": 7,
+      "mapLocation": {
+        "approximate": true
+      }
     },
     {
       "requiresApproval": false,
@@ -3885,7 +3902,7 @@
       "bedrooms": 2,
       "typology": "T2",
       "area": "168",
-      "address": "Covilhã · exact address withheld",
+      "address": "Alameda da Europa, Covilhã",
       "town": "Covilhã",
       "source": "Idealista",
       "url": "https://www.idealista.pt/imovel/35363742/",
@@ -4336,7 +4353,11 @@
       "status": "match",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 42
+      "analysedPhotos": 42,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2739531,-7.4984751"
+      }
     },
     {
       "requiresApproval": false,
@@ -4347,7 +4368,7 @@
       "bedrooms": 3,
       "typology": "T3",
       "area": "120",
-      "address": "Rua da Urbanização do Ribeiro Negro, 2",
+      "address": "Urbanização do Ribeiro Negro, 2, Boidobra",
       "town": "Covilhã",
       "source": "Idealista",
       "url": "https://www.idealista.pt/imovel/35240346/",
@@ -4600,7 +4621,10 @@
       "status": "match",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 22
+      "analysedPhotos": 22,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": false,
@@ -5690,7 +5714,10 @@
       "status": "match",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 3
+      "analysedPhotos": 3,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": false,
@@ -5798,7 +5825,10 @@
       "status": "match",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 7
+      "analysedPhotos": 7,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": false,
@@ -6027,7 +6057,7 @@
       "bedrooms": 2,
       "typology": "T2",
       "area": "150",
-      "address": "Rua Gil Vicente",
+      "address": "Avenida da Liberdade / Rua Gil Vicente area, Fundão",
       "town": "Fundão",
       "source": "Idealista",
       "url": "https://www.idealista.pt/imovel/35131662/",
@@ -6304,7 +6334,11 @@
       "status": "match",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 25
+      "analysedPhotos": 25,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.1395410,-7.4992226"
+      }
     },
     {
       "requiresApproval": false,
@@ -7141,7 +7175,10 @@
       "status": "match",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 17
+      "analysedPhotos": 17,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": false,
@@ -8403,7 +8440,10 @@
       "status": "review",
       "updated": "2026-10-30",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 18
+      "analysedPhotos": 18,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": true,
@@ -8617,7 +8657,10 @@
       "status": "review",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 17
+      "analysedPhotos": 17,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": true,
@@ -9615,7 +9658,10 @@
       "status": "review",
       "updated": "2026-10-26",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 20
+      "analysedPhotos": 20,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": true,
@@ -9763,7 +9809,10 @@
       "status": "review",
       "updated": "2026-10-23",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 11
+      "analysedPhotos": 11,
+      "mapLocation": {
+        "approximate": true
+      }
     },
     {
       "requiresApproval": true,
@@ -9988,7 +10037,10 @@
       "status": "review",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 10
+      "analysedPhotos": 10,
+      "mapLocation": {
+        "approximate": false
+      }
     },
     {
       "requiresApproval": true,
@@ -10749,7 +10801,7 @@
       "bedrooms": 2,
       "typology": "T2",
       "area": "80",
-      "address": "Boidobra · exact address withheld",
+      "address": "Boidobra, Covilhã",
       "town": "Boidobra",
       "source": "Idealista",
       "url": "https://www.idealista.pt/imovel/33040679/",
@@ -10861,7 +10913,11 @@
       "status": "review",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 8
+      "analysedPhotos": 8,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2542110,-7.4921904"
+      }
     },
     {
       "requiresApproval": true,
@@ -10872,7 +10928,7 @@
       "bedrooms": 2,
       "typology": "T2",
       "area": "100",
-      "address": "Rua de Santa Madalena, 1",
+      "address": "Rua de Santa Madalena, 1, Vale Formoso e Aldeia do Souto",
       "town": "Vale Formoso e Aldeia do Souto",
       "source": "Idealista",
       "url": "https://www.idealista.pt/imovel/35469880/",
@@ -11029,7 +11085,10 @@
       "status": "review",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 12
+      "analysedPhotos": 12,
+      "mapLocation": {
+        "approximate": true
+      }
     },
     {
       "requiresApproval": true,
@@ -11293,7 +11352,11 @@
       "status": "review",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 22
+      "analysedPhotos": 22,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2436718,-7.5271238"
+      }
     },
     {
       "requiresApproval": true,
@@ -11759,7 +11822,7 @@
       "bedrooms": 1,
       "typology": "T1",
       "area": "66",
-      "address": "Near Serra Shopping and Faculty of Health Sciences",
+      "address": "Serra Shopping area, Covilhã",
       "town": "Covilhã",
       "source": "Idealista",
       "url": "https://www.idealista.pt/imovel/35477163/",
@@ -11941,7 +12004,11 @@
       "status": "review",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 15
+      "analysedPhotos": 15,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2716172,-7.5009196"
+      }
     },
     {
       "requiresApproval": true,
@@ -12166,7 +12233,7 @@
       "bedrooms": 1,
       "typology": "T1",
       "area": "65",
-      "address": "Zona Nova, near Serra Shopping",
+      "address": "Serra Shopping, Zona Nova, Covilhã",
       "town": "Covilhã",
       "source": "Imobiclara website",
       "url": "https://www.imobiclara.pt/",
@@ -12356,7 +12423,11 @@
       "status": "review",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 16
+      "analysedPhotos": 16,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2716172,-7.5009196"
+      }
     },
     {
       "requiresApproval": true,
@@ -12367,7 +12438,7 @@
       "bedrooms": 2,
       "typology": "T2",
       "area": "100",
-      "address": "Zona Nova, near Serra Shopping",
+      "address": "Serra Shopping, Zona Nova, Covilhã",
       "town": "Covilhã",
       "source": "Imobiclara website",
       "url": "https://www.imobiclara.pt/",
@@ -12528,7 +12599,11 @@
       "status": "review",
       "updated": "",
       "checked": "12 Nov 2026",
-      "analysedPhotos": 13
+      "analysedPhotos": 13,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2716172,-7.5009196"
+      }
     },
     {
       "requiresApproval": true,
@@ -12682,7 +12757,11 @@
       "updated": "",
       "checked": "12 Nov 2026",
       "analysedPhotos": 10,
-      "januaryMoveIn": true
+      "januaryMoveIn": true,
+      "mapLocation": {
+        "approximate": true,
+        "coordinates": "40.2724527,-7.4977257"
+      }
     },
     {
       "requiresApproval": true,
@@ -12693,7 +12772,7 @@
       "bedrooms": 2,
       "typology": "T2",
       "area": "70",
-      "address": "Bairro de Santo Antão, 23",
+      "address": "Bairro de Santo Antão, 23, 6250-022 Belmonte",
       "town": "Belmonte",
       "source": "Idealista",
       "url": "https://www.idealista.pt/imovel/30079117/",
@@ -12786,7 +12865,10 @@
       "updated": "",
       "checked": "12 Nov 2026",
       "analysedPhotos": 6,
-      "januaryMoveIn": true
+      "januaryMoveIn": true,
+      "mapLocation": {
+        "approximate": false
+      }
     }
   ],
   "coverage": [
